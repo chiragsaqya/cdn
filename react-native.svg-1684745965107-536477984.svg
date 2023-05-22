@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="234.087 102.35 1219.16 3458.567" style="font-family: balsamiq" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 725.139 1927.544 C 914.791 1927.544 1104.443 1927.544 1294.095 1927.544" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <path d="M 299 2252.667 C 299 2476.322 299 2699.978 299 2923.633" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style=""></path>
+  <path d="M 354.527 2260.262 C 401.005 2260.682 437.873 2275.328 465.133 2304.202" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 773.97 1797.758 C 819.375 1796.951 856.749 1782.304 886.091 1753.818" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 777 1808.364 C 819.852 1807.086 862.705 1805.808 905.557 1804.529" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 459.311 1788.182 C 502.511 1765.478 550.66 1752.494 603.758 1749.23" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 464.18 1685.933 C 494.212 1709.947 535.869 1726.177 589.151 1734.623" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 445.515 1738.255 C 493.935 1739.749 542.355 1741.244 590.774 1742.738" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M 351.283 1564.968 C 462.538 1565.776 541.091 1583.004 586.94 1616.653" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <path d="M703 1630.6666666666667Q703 1941.2627918796497 703 2251.858917092633" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 703.687 1630 C 860.862 1630 1017.967 1630 1175 1630" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style=""></path>
+  <path d="M1176 1630.6666666666667Q1176 1660.8333333333335 1176 1691" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 959 1520.035 C 959 1556.801 959 1593.567 959 1630.333" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <path d="M1202 1383Q1202 1530.5 1202 1678" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M927 1382Q1064.492629386246 1382 1202 1382" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 1301 1606 C 1301 1640.034 1301 1674.069 1301 1708.104" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <path d="M665.5713097023082 1483.8422715058941Q693.8694984646376 1411.1321549257175 793.3742793957689 1390.8946571833771" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M666.401199115902 1305.4160475832055Q680.7777371798961 1368.583845311813 777.6063805374847 1373.4669794979052" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M664.7414202887143 1431.5592384494782Q697.9571273247858 1389.700149293775 780.9259381918604 1385.08543128822" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M777.1878845072713 1369.3175324299357Q783.0291182923035 1375.1587662149677 788.8703520773356 1381" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M950.2010516591098 1263.9239614394041Q1066.4907949511928 1269.2860809316562 1146.1569105615722 1308.291325719207" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M955.7469721940852 1250.9834801911284Q1053.8086621357104 1252.9917400955642 1151.8703520773356 1255" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M947 1206Q947 1295.096454355668 947 1384.1929087113358" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M956.6712922832477 1179.4324337714243Q1076.8844197384649 1159.8011677746854 1160.7785110073849 1094.308270383247" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M945.579451213297 1186.8269944847248Q1060.9536135473095 1190.1659401859695 1150.7785110073849 1144.308270383247" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M969 1198Q1065.4351760386678 1198 1161.8703520773356 1198" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M491.9716968431851 1193Q651.9655475754381 1193 811.9593983076911 1193" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M 372 960.037 C 372 984.15 372 1008.263 372 1032.376" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M492 874Q492 1033.3356864150485 492 1192.671372830097" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M639 770Q720.4796991538456 770 801.9593983076911 770" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M372 640.03683781481Q372 747.80511653925 372 855.5733952636899" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M427.05202383944254 862Q610.5057110735668 862 793.9593983076911 862" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M811 765.378918531447Q811 871.7700214370775 811 978.161124342708" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M947 719Q947 788.8987617634668 947 858.7975235269338" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M946.9885096442663 717Q1032.9739539759787 717 1118.9593983076911 717" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M1254 715Q1254 751.9837463299316 1254 788.9674926598631" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M948.4310785816685 700Q1036.1952384446797 700 1123.9593983076911 700" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M948 572Q948 635.2234244568931 948 698.4468489137862" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M574 513Q655.4796991538456 513 736.9593983076911 513" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M832.9819203652737 365.73578940769187Q724.7188606293142 467.65280328182666 562.7852759457136 506.05890860901036" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M882 357Q963.4796991538456 357 1044.9593983076911 357" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M614.0764510184608 329.90861003714247Q667.7050182713803 353.0505649931553 732.9643779558232 349.3149988628567" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M608.1052544567026 385.1421782334061Q675.5376258125802 359.7640049701552 752.9067710793397 361.76459284593363" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <path d="M879.2586937189001 241.8334607512085Q889.2532500901924 304.4687217960713 837.4603177865924 353.7933962841754" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <g class="clickable-group " data-group-id="101-introduction:how-to-approach-system-design">
+    <rect x="303.35" y="361.35" width="313.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="335.028" y="388" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Array, Object and String Functions</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-introduction:what-is-system-design">
+    <rect x="303.35" y="312.35" width="313.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="409.322" y="339" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">ES6, ES7, ES8</tspan></text>
+  </g>
+  <text x="772" y="213.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="28px" style="white-space: pre;"><tspan>React Native</tspan></text>
+  <path d="M842.8135525490823 108.6951290717367Q831.7438721087574 140.77549588396573 848 174" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <g class="clickable-group " data-group-id="100-introduction">
+    <rect x="716.35" y="334.35" width="204.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text style="font-size: 17px; white-space: pre;" x="758.452" y="363">Javascript Basics</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-introduction:who-is-this-guide-for">
+    <rect x="1013.35" y="336.35" width="239.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1025.92" y="363" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Object Oriented Programming </text>
+  </g>
+  <g class="clickable-group " data-group-id="101-performance-vs-scalability">
+    <rect x="323.35" y="486.35" width="281.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="387.967" y="515" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">HTML &amp; CSS Basics</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-latency-vs-throughput">
+    <rect x="702.35" y="491.35" width="281.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="739.021" y="520" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Setting Up React Native Env</text>
+  </g>
+  <g class="clickable-group " data-group-id="103-availability-vs-consistency">
+    <rect x="702.35" y="543.35" width="281.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="760.985" y="572" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Android Studio / Xcode</text>
+  </g>
+  <g class="clickable-group " data-group-id="104-consistency-patterns">
+    <rect x="1096.35" y="684.35" width="281.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1156" y="713" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, -35.181048317020895, 1.4210854715202004e-14)">Install node and package manager</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-consistency-patterns:weak-consistency">
+    <rect x="1157.35" y="767.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1254.702" y="794" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">NPM</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-consistency-patterns:eventual-consistency">
+    <rect x="1157.35" y="815.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1255.875" y="842" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Yarn</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-consistency-patterns:strong-consistency">
+    <rect x="1157.35" y="864.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1253.097" y="891" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">NVM</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-availability-patterns">
+    <rect x="757.35" y="841.35" width="221.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="798.676" y="870" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">React Native Basics</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-availability-patterns:fail-over">
+    <rect x="755.35" y="644.35" width="114.3" height="144.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="777" y="773" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan>StyleSheet</tspan></text>
+    <rect x="725.35" y="656.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="785.712" y="683" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">FlexBox</text>
+    <rect x="725.35" y="704.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="759.387" y="731" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">CSS StyleSheet</text>
+  </g>
+  <g class="clickable-group " data-group-id="101-availability-patterns:replication">
+    <rect x="543.35" y="645.35" width="114.3" height="143.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="557" y="773" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan>Life cycle</tspan></text>
+    <rect x="513.35" y="655.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="521.91" y="682" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Functional Component</text>
+    <rect x="513.35" y="703.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="540.746" y="730" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Class Component</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-availability-patterns:availability-in-numbers">
+    <rect x="726.35" y="929.35" width="203.3" height="200.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="749.463" y="960" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">JSX (Javascript XML)</text>
+    <rect x="703.35" y="975.35" width="248.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="725.341" y="1003.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">&lt;View&gt; &lt;Text&gt; &lt;TextInput&gt;</text>
+    <rect x="703.35" y="1023.35" width="248.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="736.612" y="1051.5" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">&lt;FlatList&gt; &lt;ScrollView&gt;</text>
+    <rect x="703.35" y="1072.35" width="248.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="725.76" y="1100" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">&lt;Image&gt; &lt;ActivityIndicator&gt;</text>
+  </g>
+  <g class="clickable-group " data-group-id="106-background-jobs">
+    <rect x="286.35" y="840.35" width="250.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="361.124" y="869" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Asynchronous</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-background-jobs:event-driven">
+    <rect x="286.35" y="759.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="328.608" y="786" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">async - await</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-background-jobs:schedule-driven">
+    <rect x="288.35" y="711.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="344.418" y="738" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Promise</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-background-jobs:returning-results">
+    <rect x="288.35" y="631.35" width="174.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="338.381" y="658" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Callbacks</text>
+  </g>
+  <g class="clickable-group " data-group-id="108-content-delivery-networks" transform="matrix(1, 0, 0, 1, 0, -130)">
+    <rect x="286.35" y="1057.35" width="250.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="313.674" y="1086" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">State Management Libraries</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-content-delivery-networks:push-cdns" transform="matrix(1, 0, 0, 1, 0, -130)">
+    <rect x="287.35" y="1141.35" width="135.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="328.15" y="1168" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Redux</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-content-delivery-networks:pull-cdns" transform="matrix(1, 0, 0, 1, 0, -130)">
+    <rect x="287.35" y="1189.35" width="135.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="326.914" y="1216" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Context</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="109-load-balancers">
+    <rect x="759.35" y="1169.35" width="219.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="824.335" y="1198" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;" transform="matrix(1, 0, 0, 1, -1.0828387696449795, 0)">React Hooks</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-load-balancers:layer-7-load-balancing">
+    <rect x="1141.35" y="1077.35" width="233.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1234.879" y="1104" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">useRef</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-load-balancers:layer-4-load-balancing">
+    <rect x="1141.35" y="1126.35" width="233.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1231.261" y="1153" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">useEffect</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-load-balancers:horizontal-scaling">
+    <rect x="1141.35" y="1174.35" width="233.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1236.814" y="1201" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">useState</text>
+  </g>
+  <g class="clickable-group " data-group-id="110-application-layer">
+    <rect x="759.35" y="1236.35" width="219.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="784.281" y="1265" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Android and iOS Basics</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-application-layer:microservices">
+    <rect x="1141.35" y="1237.35" width="233.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1226.469" y="1264" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">App Icons</text>
+  </g>
+  <g class="clickable-group " data-group-id="101-application-layer:service-discovery">
+    <rect x="1141.35" y="1285.35" width="233.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1189" y="1312" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 24.081643063219644, -5.684341886080802e-14)">Splash Screen</text>
+  </g>
+  <g class="clickable-group " data-group-id="111-databases">
+    <rect x="759.35" y="1358.35" width="219.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="840.516" y="1387" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Debugger</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-databases:nosql">
+    <rect x="395.926" y="1404.35" width="271.724" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  </g>
+  <g class="clickable-group " data-group-id="112-caching">
+    <rect x="1161.35" y="1678.35" width="233.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1246" y="1707" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;">Redux Middleware</text>
+  </g>
+  <g class="clickable-group " data-group-id="105-caching:caching-strategies">
+    <rect x="1236.35" y="1380.35" width="131.3" height="247.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1262" y="1610" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan>Middleware</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-caching:caching-strategies:cache-aside">
+    <rect x="1255.35" y="1540.35" width="161.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1319.248" y="1567" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Thunk</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-caching:caching-strategies:write-through">
+    <rect x="1255.35" y="1492.35" width="161.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1319.879" y="1519" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Saga</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-caching:caching-strategies:write-behind">
+    <rect x="1255.35" y="1444.35" width="161.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1295.875" y="1471" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Observables</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="113-asynchronism">
+    <rect x="867.35" y="1608.35" width="184.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="928.582" y="1637" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Api Calls</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-asynchronism:task-queues">
+    <rect x="867.35" y="1483.35" width="184.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="926.909" y="1510" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Fetch API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-asynchronism:back-pressure">
+    <rect x="867.35" y="1436.35" width="184.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="936.009" y="1463" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Axios</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="115-communication" transform="matrix(1, 0, 0, 1, 0, -128)">
+    <rect x="562.35" y="1738.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="621" y="1767" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 2.7734252775450727, 0)">Helper Function</text>
+  </g>
+  <rect x="263.821" y="1544.417" width="115.391" height="80.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  <g class="clickable-group " data-group-id="103-communication:rpc" transform="matrix(1, 0, 0, 1, -617.528503, -245.932892)">
+    <rect x="894.35" y="1801.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="909.931" y="1828" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">moment</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-communication:grpc" transform="matrix(1, 0, 0, 1, -617.528503, -245.932892)">
+    <rect x="894.35" y="1849.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="916.931" y="1876" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">lodash</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="116-performance-antipatterns" transform="matrix(1, 0, 0, 1, 0, -200)">
+    <rect x="562.35" y="1914.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="642.458" y="1943" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Validations</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-performance-antipatterns:extraneous-fetching" transform="matrix(1, 0, 0, 1, 0, -200)">
+    <rect x="250.35" y="1868.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="307.28" y="1895" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">class-validators</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="104-performance-antipatterns:improper-instantiation" transform="matrix(1, 0, 0, 1, 0, -200)">
+    <rect x="250.35" y="1917.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="339.848" y="1944" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">lodash</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-performance-antipatterns:monolithic-persistence" transform="matrix(1, 0, 0, 1, 0, -200)">
+    <rect x="250.35" y="1965.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="273" y="1992" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 60.29279174573014, 2.2737367544323206e-13)"><tspan>react-form</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 320.350616, -890.456116)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="286" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;">Google and Apple Maps</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:design-and-implementation" transform="matrix(1, 0, 0, 1, -10.035297, -808.991272)">
+    <rect x="1184.35" y="2588.413" width="238.3" height="250.237" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+    <text x="1268.215" y="2820.538" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Google APIs</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="110-cloud-design-patterns:design-and-implementation:pipes-and-filters" transform="matrix(1, 0, 0, 1, -10.035297, -808.991272)">
+    <rect x="1159.35" y="2605.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1214.424" y="2632" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Location Autocomplete API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="111-cloud-design-patterns:design-and-implementation:sidecar" transform="matrix(1, 0, 0, 1, -10.035297, -808.991272)">
+    <rect x="1159.35" y="2653.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1247.161" y="2680" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Geo Location API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="113-cloud-design-patterns:design-and-implementation:strangler-fig" transform="matrix(1, 0, 0, 1, -10.035297, -808.991272)">
+    <rect x="1159.35" y="2749.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1264.635" y="2776" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Direction API</text>
+  </g>
+  <g class="clickable-group " data-group-id="112-cloud-design-patterns:design-and-implementation:static-content-hosting" transform="matrix(1, 0, 0, 1, -10.035297, -808.991272)">
+    <rect x="1159.35" y="2701.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1281.319" y="2728" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Places API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:messaging" style="" transform="matrix(1, 0, 0, 0.965727, 232, -402.539093)">
+    <rect x="645.35" y="2382.845" width="188.3" height="460.805" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+    <text x="678.546" y="2820.752" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">react-native-maps</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:messaging:asynchronous-request-reply" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2320.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="691.148" y="2347" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;MapView&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-cloud-design-patterns:messaging:claim-check" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2367.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="691" y="2394" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 6.463650312774462, 0)">&lt;Marker&gt;</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:messaging:choreography" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2415.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="700.458" y="2442" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;Circle&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-cloud-design-patterns:messaging:competing-consumers" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2463.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="651" y="2490" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 43.521736507705896, 0)"><tspan>&lt;Geojson&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="104-cloud-design-patterns:messaging:pipes-and-filters" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2511.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="694.671" y="2538" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;Polygon&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-cloud-design-patterns:messaging:priority-queue" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2558.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="696.439" y="2585" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;Overlay&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="106-cloud-design-patterns:messaging:publisher-subscriber" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2606.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="692.973" y="2633" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;Heatmap&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="107-cloud-design-patterns:messaging:queue-based-load-leveling" transform="matrix(1, 0, 0, 1, 232, -405)">
+    <rect x="597.35" y="2654.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="702.261" y="2681" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, -1.391727410048361, -4.547473508864641e-13)"><tspan style="font-size: 17px; word-spacing: 0px;">&lt;Callout&gt;</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-monitoring:performance-monitoring" transform="matrix(1, 0, 0, 1, 21, -303)">
+    <rect x="859.35" y="2038.35" width="229.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="916.149" y="2062.843" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Stack Navigation</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-monitoring:security-monitoring" transform="matrix(1, 0, 0, 1, 21, -303)">
+    <rect x="859.35" y="2086.35" width="229.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="925.216" y="2113" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Tab Navigation</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="104-monitoring:usage-monitoring" transform="matrix(1, 0, 0, 1, 21, -303)">
+    <rect x="859.35" y="2134.35" width="229.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="908.437" y="2161" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Drawer Navigaiton</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:reliability-patterns:availability" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="402.35" y="2935.35" width="188.3" height="315.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="457" y="2972" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan>Animated</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:reliability-patterns:availability:deployment-stamps" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="354.35" y="2989.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="478.618" y="3016" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">decay()</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-cloud-design-patterns:reliability-patterns:availability:geodes" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="354.35" y="3038.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="472.187" y="3065" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">timing()</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:reliability-patterns:availability:health-endpoint-monitoring" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="354.35" y="3088.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="474.711" y="3115" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">spring()</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-cloud-design-patterns:reliability-patterns:availability:queue-based-load-leveling" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="354.35" y="3138.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="478.298" y="3165" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">delay()</text>
+  </g>
+  <g class="clickable-group " data-group-id="104-cloud-design-patterns:reliability-patterns:availability:throttling" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="354.35" y="3188.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="465.644" y="3215" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">sequence()</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-cloud-design-patterns:reliability-patterns:high-availability" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="716.35" y="2935.35" width="188.3" height="315.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="778.349" y="2972" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Properties</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:reliability-patterns:high-availability:deployment-stamps" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="678.35" y="2989.35" width="264.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="790.707" y="3016" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Value</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-cloud-design-patterns:reliability-patterns:high-availability:geodes" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="678.35" y="3038.35" width="264.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="780" y="3065" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan>ValueXY</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:reliability-patterns:high-availability:health-endpoint-monitoring" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="678.35" y="3088.35" width="264.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="766.58" y="3115" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Interpolation</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-cloud-design-patterns:reliability-patterns:high-availability:bulkhead" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="678.35" y="3138.35" width="264.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="798.075" y="3165" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Node</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="104-cloud-design-patterns:reliability-patterns:high-availability:circuit-breaker" transform="matrix(1, 0, 0, 1, -5.808723, -380.453552)">
+    <rect x="678.35" y="3188.35" width="264.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="719.95" y="3215" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">createAnimatedComponent</text>
+  </g>
+  <path d="M300 2253Q501.1532263870339 2253 702.306452774068 2253" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+  <g class="clickable-group " data-group-id="103-cloud-design-patterns:reliability-patterns" transform="matrix(1.084788, 0, 0, 1, -128.128647, -380.453552)" style="">
+    <rect x="354.35" y="2890.35" width="648.687" height="51.3" rx="2" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style="fill: rgb(255, 255, 0);"></rect>
+    <text style="font-size: 17px; white-space: pre;" x="614.413" y="2920.987">Animated Libraries</text>
+  </g>
+  <path d="M 299.156 2923.882 C 649.801 2923.882 1000.447 2923.882 1351.092 2923.882" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style=""></path>
+  <path d="M 1351.1 2924.115 C 1351.1 3088.051 1351.1 3251.988 1351.1 3415.921" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" style=""></path>
+  <path d="M 1356.797 3421.917 C 1356.785 3463.048 1356.785 3509.381 1356.797 3560.917" fill="none" stroke="rgb(43,120,228)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <rect x="1060.147" y="3354.267" width="386.432" height="115.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  <text x="1088.574" y="3391.917" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Continue Learning with following relevant tracks</tspan></text>
+  <g class="clickable-group " data-group-id="ext_link:roadmap.sh/software-design-architecture" transform="matrix(1, 0, 0, 1, 492.796265, -123.083405)">
+    <rect x="585.35" y="3532.35" width="349.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="600" y="3559" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 136.6498854499555, 4.547473508864641e-13)"><tspan>Expo</tspan></text>
+  </g>
+  <rect x="263.35" y="102.35" width="395.3" height="156.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+  <g class="clickable-group " data-group-id="ext_link:github.com/donnemartin/system-design-primer">
+    <text x="322" y="193" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px" style="white-space: pre;"><tspan>React Native Getting Started</tspan></text>
+    <g>
+      <circle cx="299" cy="186" r="10" fill="rgb(255,255,255)"></circle>
+      <circle cx="299" cy="186" r="10" fill="rgb(153,153,153)"></circle>
+      <path d="M293.5 186L297.5 190 304 183.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </g>
+  <g class="clickable-group " data-group-id="ext_link:amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321">
+    <text x="322" y="229" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="18px" style="white-space: pre;">Expo</text>
+    <g>
+      <circle cx="299" cy="222" r="10" fill="rgb(255,255,255)"></circle>
+      <circle cx="299" cy="222" r="10" fill="rgb(153,153,153)"></circle>
+      <path d="M293.5 222L297.5 226 304 219.5" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+  </g>
+  <text x="289" y="150" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="24px" style="white-space: pre;"><tspan>References / Resources</tspan></text>
+  <text x="448.595" y="1430.282" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Chrome Developer Tools</tspan></text>
+  <g class="clickable-group " data-group-id="101-databases:nosql" transform="matrix(1, 0, 0, 1, -1.443854, 55.568913)">
+    <rect x="395.926" y="1404.35" width="271.724" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  </g>
+  <g class="clickable-group " data-group-id="100-databases:rdbms" style="" transform="matrix(2.054066, 0, 0, 1, -675.450195, -60.601463)">
+    <text x="573" y="1482" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(0.486839, 0, 0, 1, 279.507629, 63.254925)"><tspan>Redux DevTools</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="101-databases:nosql" transform="matrix(1, 0, 0, 1, 23.357071, -117.723)">
+    <rect x="395.926" y="1404.35" width="271.724" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  </g>
+  <g class="clickable-group " data-group-id="102-databases:sql-vs-nosql" transform="matrix(1, 0, 0, 1, -1.443421, -31.377745)">
+    <text x="531.177" y="1343.992" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Flipper</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 314.629242, -829.675903)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="329.723" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">App Versioning</text>
+  </g>
+  <path d="M 777 1818.212 C 823.478 1818.632 860.346 1833.278 887.606 1862.152" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" transform="matrix(1, 0, 0, 1, -7.010082, -13.224319)"></path>
+  <g class="clickable-group " data-group-id="117-monitoring" transform="matrix(1, 0, 0, 1, 21, -303)">
+    <rect x="543.35" y="2088.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="610.817" y="2117" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">react-navigation</tspan></text>
+  </g>
+  <path d="M 595.253 2261.827 C 641.731 2262.247 678.599 2276.893 705.859 2305.767" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12"></path>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 267.182495, -569.587585)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="299.485" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Social Authentication</text>
+  </g>
+  <rect x="591.838" y="2288.473" width="115.391" height="80.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  <g class="clickable-group " data-group-id="103-communication:rpc" transform="matrix(1, 0, 0, 1, -289.51178, 498.12323)">
+    <rect x="894.35" y="1801.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="912.408" y="1828" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Google</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-communication:grpc" transform="matrix(1, 0, 0, 1, -289.51178, 498.12323)">
+    <rect x="894.35" y="1849.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="917.646" y="1876" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Apple</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, -17.252165, -569.26947)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="265.448" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">React Native Push Notification</text>
+  </g>
+  <g class="clickable-group " data-group-id="103-performance-antipatterns:extraneous-fetching" transform="matrix(1, 0, 0, 1, 75.187759, 425.099365)">
+    <rect x="250.35" y="1868.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="298.984" y="1895" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">APNS Certificates</text>
+  </g>
+  <g class="clickable-group " data-group-id="104-performance-antipatterns:improper-instantiation" transform="matrix(1, 0, 0, 1, 75.187759, 425.099365)">
+    <rect x="250.35" y="1917.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="256.041" y="1944" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">react-native-push-notifications</text>
+  </g>
+  <g class="clickable-group " data-group-id="105-performance-antipatterns:monolithic-persistence" transform="matrix(1, 0, 0, 1, 75.187759, 425.099365)">
+    <rect x="250.35" y="1965.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="291.679" y="1992" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">push-notification-ios</tspan></text>
+  </g>
+  <path d="M 513.216 2027.399 C 559.694 2027.819 596.562 2042.465 623.822 2071.339" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" transform="matrix(1, 0, 0, 1, -13.829463, -18.229746)"></path>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 316.495087, -771.416626)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="286" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 68.0394571436506, -2.2737367544323206e-13)">Firebase</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:design-and-implementation" transform="matrix(1, 0, 0, 1, -922.723328, -725.000671)">
+    <rect x="1184.35" y="2588.413" width="238.3" height="250.237" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+    <text x="1240.546" y="2820.538" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Firebase Services</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="110-cloud-design-patterns:design-and-implementation:pipes-and-filters" transform="matrix(1, 0, 0, 1, -922.723328, -725.000671)">
+    <rect x="1159.35" y="2605.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1215.477" y="2632" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Location Autocomplete API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="111-cloud-design-patterns:design-and-implementation:sidecar" transform="matrix(1, 0, 0, 1, -922.723328, -725.000671)">
+    <rect x="1159.35" y="2653.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1239.854" y="2680" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Realtime Database</text>
+  </g>
+  <g class="clickable-group " data-group-id="113-cloud-design-patterns:design-and-implementation:strangler-fig" transform="matrix(1, 0, 0, 1, -922.723328, -725.000671)">
+    <rect x="1159.35" y="2749.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1247.996" y="2776" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Notification APIs</text>
+  </g>
+  <g class="clickable-group " data-group-id="112-cloud-design-patterns:design-and-implementation:static-content-hosting" transform="matrix(1, 0, 0, 1, -922.723328, -725.000671)">
+    <rect x="1159.35" y="2701.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1263.753" y="2728" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Google Login</tspan></text>
+  </g>
+  <path d="M 446.864 2459.831 C 588.471 2459.423 700.798 2445.221 783.852 2417.224" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, -19.263308, -350.425507)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="308.524" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Payment Gateway</text>
+  </g>
+  <rect x="732.775" y="2384.708" width="115.391" height="80.3" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  <g class="clickable-group " data-group-id="105-communication:grpc" transform="matrix(1, 0, 0, 1, -148.575165, 594.358276)">
+    <rect x="894.35" y="1849.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="915" y="1876" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;">Paypal</text>
+  </g>
+  <g class="clickable-group " data-group-id="103-communication:rpc" transform="matrix(1, 0, 0, 1, -147.645386, 591.523071)">
+    <rect x="894.35" y="1801.35" width="87.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="918.073" y="1828" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Stripe</tspan></text>
+  </g>
+  <path d="M 1126.361 3072.268 C 1192.348 3079.734 695.39 3044.48 1257.414 3031.31" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style="" transform="matrix(0.999767, -0.021573, 0.021573, 0.999767, -65.586258, 24.91256)"></path>
+  <path d="M 1226.144 2722.168 C 1245.943 2691.393 1097.085 2836.695 1264.801 2890.973" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <path d="M 442.237 2940.056 C 462.036 2909.281 313.178 3054.583 480.894 3108.861" fill="none" stroke="rgb(153,0,255)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.8 12" style=""></path>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 37.162918, 112.260345)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="340.524" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">CI / CD</text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:messaging" style="" transform="matrix(1, 0, 0, 0.965727, -328.867096, 638.212524)">
+    <rect x="645.35" y="2514.343" width="188.3" height="329.308" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+    <text x="662.568" y="2820.752" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Continous Deployment</tspan></text>
+    <text x="661.388" y="2540.841" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Continous Integration</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="100-cloud-design-patterns:messaging:asynchronous-request-reply" transform="matrix(1, 0, 0, 1, -328.867096, 784.426453)">
+    <rect x="597.35" y="2320.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="664.342" y="2347.318" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Github, Gitlab, Azure</text>
+  </g>
+  <g class="clickable-group " data-group-id="101-cloud-design-patterns:messaging:claim-check" transform="matrix(1, 0, 0, 1, -328.867096, 784.426453)">
+    <rect x="597.35" y="2367.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="683.555" y="2394" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Azure Pipelines</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:messaging:choreography" transform="matrix(1, 0, 0, 1, -328.867096, 784.426453)">
+    <rect x="597.35" y="2415.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="698.633" y="2442.733" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Fastlane</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="103-cloud-design-patterns:messaging:competing-consumers" transform="matrix(1, 0, 0, 1, -328.867096, 784.426453)">
+    <rect x="597.35" y="2463.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="664.815" y="2489.828" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">App Store / Play Store</text>
+  </g>
+  <g class="clickable-group " data-group-id="104-cloud-design-patterns:messaging:pipes-and-filters" transform="matrix(1, 0, 0, 1, -328.867096, 784.426453)">
+    <rect x="597.35" y="2511.35" width="284.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="723.197" y="2537.237" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">YAML</text>
+  </g>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 963.596741, 219.573181)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="318.207" y="2823" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">More JavaScript</text>
+  </g>
+  <g class="clickable-group " data-group-id="102-cloud-design-patterns:design-and-implementation" transform="matrix(1, 0, 0, 1, -306.575348, 372.564728)">
+    <rect x="1184.35" y="2588.413" width="238.3" height="221.616" rx="2" fill="rgb(255,255,255)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7" style=""></rect>
+  </g>
+  <g class="clickable-group " data-group-id="110-cloud-design-patterns:design-and-implementation:pipes-and-filters" transform="matrix(1, 0, 0, 1, -306.575348, 372.564728)">
+    <rect x="1159.35" y="2605.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1267.416" y="2632" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">TypeScript</text>
+  </g>
+  <g class="clickable-group " data-group-id="111-cloud-design-patterns:design-and-implementation:sidecar" transform="matrix(1, 0, 0, 1, -306.575348, 372.564728)">
+    <rect x="1159.35" y="2653.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1171.889" y="2680" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">DRY(Don't Repeat Yourself) Techniques</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="113-cloud-design-patterns:design-and-implementation:strangler-fig" transform="matrix(1, 0, 0, 1, -306.575348, 372.564728)">
+    <rect x="1159.35" y="2749.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1264.635" y="2776" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">Direction API</text>
+  </g>
+  <g class="clickable-group " data-group-id="112-cloud-design-patterns:design-and-implementation:static-content-hosting" transform="matrix(1, 0, 0, 1, -306.575348, 372.564728)">
+    <rect x="1159.35" y="2701.35" width="296.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="1281.319" y="2728" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Places API</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="118-cloud-design-patterns" transform="matrix(1, 0, 0, 1, 871.733582, 101.563362)">
+    <rect x="253.35" y="2794.35" width="236.3" height="44.3" rx="2" fill="rgb(255,255,0)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="298.259" y="2822.526" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;">More on react native</text>
+  </g>
+  <g class="clickable-group " data-group-id="103-performance-antipatterns:extraneous-fetching" transform="matrix(1, 0, 0, 1, 874.533508, 738.305725)">
+    <rect x="250.35" y="1868.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="298.784" y="1895" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;" transform="matrix(1, 0, 0, 1, 45.57207452716703, 0)">Expo</text>
+  </g>
+  <g class="clickable-group " data-group-id="104-performance-antipatterns:improper-instantiation" transform="matrix(1, 0, 0, 1, 874.533508, 738.305725)">
+    <rect x="250.35" y="1917.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="255.834" y="1944" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre; font-size: 17px;" transform="matrix(1, 0, 0, 1, 83.36438486517169, 0)">SQLite</text>
+  </g>
+  <g class="clickable-group " data-group-id="105-performance-antipatterns:monolithic-persistence" transform="matrix(1, 0, 0, 1, 874.533508, 738.305725)">
+    <rect x="250.35" y="1965.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="281.7" y="1992" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;" transform="matrix(1, 0, 0, 1, 4.691448297572833, 0)"><tspan style="font-size: 17px; word-spacing: 0px;">WebSocket, Socket.io</tspan></text>
+  </g>
+  <g class="clickable-group " data-group-id="105-performance-antipatterns:monolithic-persistence" transform="matrix(1, 0, 0, 1, 878.535767, 785.924011)">
+    <rect x="245.617" y="1965.35" width="220.3" height="41.3" rx="2" fill="rgb(255,229,153)" fill-opacity="1" stroke="rgb(0,0,0)" stroke-width="2.7"></rect>
+    <text x="310.785" y="1992" fill="rgb(0,0,0)" font-style="normal" font-weight="normal" font-size="17px" style="white-space: pre;"><tspan style="font-size: 17px; word-spacing: 0px;">Error Handling</tspan></text>
+  </g>
+</svg>
