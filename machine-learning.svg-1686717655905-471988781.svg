@@ -3,10 +3,7 @@
 <!-- Created with Vectornator (http://vectornator.io/) -->
 <svg height="1359.0px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 741 1359" width="741.0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
-<clipPath id="ArtboardFrame">
-<rect height="1359" width="741" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Untitled">
+<g id="Untitled">
 <g opacity="1">
 <text fill="#000000" font-family="Helvetica" font-size="19.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 256.683 108)" x="0" y="0">
 <tspan textLength="152.634" x="77.8172" y="19">Machine Learning</tspan>
@@ -317,8 +314,5 @@
 </text>
 <path d="M60.5 682C23.8333 682 5.5 678.25 5.5 670.75C5.5 663.25 10.5 659.5 20.5 659.5" fill="none" opacity="1" stroke="#1f6286" stroke-dasharray="1.0,2.0,1.0,2.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
 </g>
-<text fill="#000000" font-family="Helvetica" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 -15.0215 87.5)" x="0" y="0">
-<tspan textLength="131.043" x="67.0215" y="8">Viewer does not support full SVG 1.1</tspan>
-</text>
 </g>
 </svg>
