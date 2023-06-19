@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="2872.0px" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 816 2872" width="816.0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Untitled">
+<g opacity="1">
+<path d="M9.5 3.5L205.5 3.5L205.5 3.5L205.5 43.5L205.5 43.5L9.5 43.5L9.5 43.5L9.5 3.5L9.5 3.5Z" fill="#000000" fill-rule="nonzero" opacity="0.25" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M7.5 0.5L203.5 0.5L203.5 0.5L203.5 40.5L203.5 40.5L7.5 40.5L7.5 40.5L7.5 0.5L7.5 0.5Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M383.5 105.5C399.5 128.833 407.333 147.167 407 160.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M407 51.5C407.333 64.1667 402.65 72.52 392.95 76.56" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M385.56 79.64L391.41 72.87L394.49 80.26L385.56 79.64Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M345 160.5L469 160.5C470.657 160.5 472 161.843 472 163.5L472 177.5C472 179.157 470.657 180.5 469 180.5L345 180.5C343.343 180.5 342 179.157 342 177.5L342 163.5C342 161.843 343.343 160.5 345 160.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 366.621 163.672)" x="0" y="0">
+<tspan textLength="80.7578" x="41.8789" y="9">System Design Basics</tspan>
+</text>
+<path d="M345 185.5L590.5 185.5C592.157 185.5 593.5 186.843 593.5 188.5L593.5 202.5C593.5 204.157 592.157 205.5 590.5 205.5L345 205.5C343.343 205.5 342 204.157 342 202.5L342 188.5C342 186.843 343.343 185.5 345 185.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 384.805 188.672)" x="0" y="0">
+<tspan textLength="164.391" x="83.6953" y="9">Key Characteristics of Distributed Systems</tspan>
+</text>
+<path d="M672.25 145.5L750.25 145.5C751.493 145.5 752.5 146.507 752.5 147.75L752.5 158.25C752.5 159.493 751.493 160.5 750.25 160.5L672.25 160.5C671.007 160.5 670 159.493 670 158.25L670 147.75C670 146.507 671.007 145.5 672.25 145.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 684.928 147.737)" x="0" y="0">
+<tspan textLength="52.1438" x="27.5719" y="7">Resource Sharing</tspan>
+</text>
+<path d="M671.25 165.5L751.25 165.5C752.493 165.5 753.5 166.507 753.5 167.75L753.5 178.25C753.5 179.493 752.493 180.5 751.25 180.5L671.25 180.5C670.007 180.5 669 179.493 669 178.25L669 167.75C669 166.507 670.007 165.5 671.25 165.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 696.762 167.737)" x="0" y="0">
+<tspan textLength="28.475" x="15.7375" y="7">Openness</tspan>
+</text>
+<path d="M671.25 185L751.25 185C752.493 185 753.5 186.007 753.5 187.25L753.5 197.75C753.5 198.993 752.493 200 751.25 200L671.25 200C670.007 200 669 198.993 669 197.75L669 187.25C669 186.007 670.007 185 671.25 185Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 692.594 186.737)" x="0" y="0">
+<tspan textLength="36.8125" x="19.9063" y="7">Concurrency</tspan>
+</text>
+<path d="M603.5 190.5C603.5 190.5 625.667 178 670 153" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M593.5 195.5C593.5 195.5 618.667 188 669 173" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M593.5 200.5C626.833 195.167 652 192.5 669 192.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M45.75 163.5L247.75 163.5C248.993 163.5 250 164.507 250 165.75L250 176.25C250 177.493 248.993 178.5 247.75 178.5L45.75 178.5C44.5074 178.5 43.5 177.493 43.5 176.25L43.5 165.75C43.5 164.507 44.5074 163.5 45.75 163.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 87.4906 165.737)" x="0" y="0">
+<tspan textLength="117.019" x="60.0094" y="7">High-Level Design VS Low-Level Design</tspan>
+</text>
+<path d="M342.5 165.5C316.5 148.833 285.667 138.833 250 135.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M342.5 165.5C309.833 155.5 279 151.5 250 153.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M342.5 170.5C309.833 163.833 279 164 250 171" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M342.5 175.5C309.833 172.167 279 176.667 250 189" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M388.5 326C356.5 321.667 318.167 318.167 273.5 315.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M388.5 331C349.833 326.667 311.5 327.5 273.5 333.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M584 686.5L688 686.5C689.657 686.5 691 687.843 691 689.5L691 703.5C691 705.157 689.657 706.5 688 706.5L584 706.5C582.343 706.5 581 705.157 581 703.5L581 689.5C581 687.843 582.343 686.5 584 686.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 621.84 689.672)" x="0" y="0">
+<tspan textLength="28.3203" x="15.6602" y="9">Caching</tspan>
+</text>
+<path d="M497.5 766.5L580.5 766.5C582.157 766.5 583.5 767.843 583.5 769.5L583.5 783.5C583.5 785.157 582.157 786.5 580.5 786.5L497.5 786.5C495.843 786.5 494.5 785.157 494.5 783.5L494.5 769.5C494.5 767.843 495.843 766.5 497.5 766.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 520.805 770.737)" x="0" y="0">
+<tspan textLength="36.3906" x="19.6953" y="7">Cache Aside</tspan>
+</text>
+<path d="M508.25 482.5L606.75 482.5C609.649 482.5 612 484.851 612 487.75L612 512.25C612 515.149 609.649 517.5 606.75 517.5L508.25 517.5C505.351 517.5 503 515.149 503 512.25L503 487.75C503 484.851 505.351 482.5 508.25 482.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 541.955 493.672)" x="0" y="0">
+<tspan textLength="30.0898" x="16.5449" y="9">Storage</tspan>
+</text>
+<path d="M476.5 1120.33L609 1120.33C610.657 1120.33 612 1121.67 612 1123.33L612 1137.33C612 1138.99 610.657 1140.33 609 1140.33L476.5 1140.33C474.843 1140.33 473.5 1138.99 473.5 1137.33L473.5 1123.33C473.5 1121.67 474.843 1120.33 476.5 1120.33Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 499.131 1123.67)" x="0" y="0">
+<tspan textLength="85.7383" x="44.3691" y="9">Logging and Monitoring</tspan>
+</text>
+<path d="M246.5 973L370.5 973C372.157 973 373.5 974.343 373.5 976L373.5 990C373.5 991.657 372.157 993 370.5 993L246.5 993C244.843 993 243.5 991.657 243.5 990L243.5 976C243.5 974.343 244.843 973 246.5 973Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 280.904 976.672)" x="0" y="0">
+<tspan textLength="54.1914" x="28.5957" y="9">Load Balancing</tspan>
+</text>
+<path d="M82.4 1020.5L188.6 1020.5C190.34 1020.5 191.75 1021.91 191.75 1023.65L191.75 1038.35C191.75 1040.09 190.34 1041.5 188.6 1041.5L82.4 1041.5C80.6603 1041.5 79.25 1040.09 79.25 1038.35L79.25 1023.65C79.25 1021.91 80.6603 1020.5 82.4 1020.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 101.347 1025.74)" x="0" y="0">
+<tspan textLength="67.3063" x="35.1531" y="7">Weighted Round Robin</tspan>
+</text>
+<path d="M96.65 1048.5L215.35 1048.5C217.09 1048.5 218.5 1049.91 218.5 1051.65L218.5 1066.35C218.5 1068.09 217.09 1069.5 215.35 1069.5L96.65 1069.5C94.9103 1069.5 93.5 1068.09 93.5 1066.35L93.5 1051.65C93.5 1049.91 94.9103 1048.5 96.65 1048.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 112.583 1053.74)" x="0" y="0">
+<tspan textLength="86.8344" x="44.9172" y="7">Load-Based Server Selection</tspan>
+</text>
+<path d="M291.5 1170.5L370.5 1170.5C372.157 1170.5 373.5 1171.84 373.5 1173.5L373.5 1187.5C373.5 1189.16 372.157 1190.5 370.5 1190.5L291.5 1190.5C289.843 1190.5 288.5 1189.16 288.5 1187.5L288.5 1173.5C288.5 1171.84 289.843 1170.5 291.5 1170.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 306.393 1173.67)" x="0" y="0">
+<tspan textLength="49.2148" x="26.1074" y="9">Rate Limiting</tspan>
+</text>
+<path d="M503 500C490 513.667 472.167 523.333 449.5 529" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M418.5 675C418.5 668.649 423.649 663.5 430 663.5C436.351 663.5 441.5 668.649 441.5 675C441.5 681.351 436.351 686.5 430 686.5C423.649 686.5 418.5 681.351 418.5 675Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M454.5 889.5C454.5 883.149 459.649 878 466 878C472.351 878 477.5 883.149 477.5 889.5C477.5 895.851 472.351 901 466 901C459.649 901 454.5 895.851 454.5 889.5Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M422.5 1179C422.5 1172.65 427.649 1167.5 434 1167.5C440.351 1167.5 445.5 1172.65 445.5 1179C445.5 1185.35 440.351 1190.5 434 1190.5C427.649 1190.5 422.5 1185.35 422.5 1179Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M581 696.5C569.333 696.5 548.5 690.5 518.5 678.5C488.5 666.5 462.647 664.147 440.94 671.44" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M594.31 706.5C578.437 722.5 570.383 742.553 570.15 766.66" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M473.5 1130.33C440.167 1130.44 427.167 1143.83 434.5 1170.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M447.5 793.5C447.5 831.5 432.833 852.917 403.5 857.75" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M276 993C221 992.667 174.167 1001.83 135.5 1020.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M283.5 991.5C283.5 1004.17 254.627 1022.77 196.88 1047.32" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M434 1190.5C434.333 1203.83 433.963 1211.17 432.89 1212.51" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M427.9 1218.75L429.77 1210.01L436.02 1215.01L427.9 1218.75Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M426.5 1240.5C431.167 1267.17 425.167 1275.5 408.5 1265.5C391.833 1255.5 374.187 1265.5 355.56 1295.51" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 36 14.7375)" x="0" y="0">
+<tspan textLength="126.45" x="0" y="7">mohsenshafiei/system-design-master-plan</tspan>
+</text>
+<path d="M345.25 1301.25C345.25 1297.52 348.272 1294.5 352 1294.5C355.728 1294.5 358.75 1297.52 358.75 1301.25C358.75 1304.98 355.728 1308 352 1308C348.272 1308 345.25 1304.98 345.25 1301.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.6 1303.5L613.4 1303.5C615.802 1303.5 617.75 1305.45 617.75 1307.85L617.75 1328.15C617.75 1330.55 615.802 1332.5 613.4 1332.5L437.6 1332.5C435.198 1332.5 433.25 1330.55 433.25 1328.15L433.25 1307.85C433.25 1305.45 435.198 1303.5 437.6 1303.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 465.51 1311.67)" x="0" y="0">
+<tspan textLength="118.98" x="60.9902" y="9">How to Design a Questionnaire?</tspan>
+</text>
+<path d="M480.5 740.5L560.5 740.5C562.157 740.5 563.5 741.843 563.5 743.5L563.5 757.5C563.5 759.157 562.157 760.5 560.5 760.5L480.5 760.5C478.843 760.5 477.5 759.157 477.5 757.5L477.5 743.5C477.5 741.843 478.843 740.5 480.5 740.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 494.928 744.737)" x="0" y="0">
+<tspan textLength="50.1438" x="26.5719" y="7">Caching Benefits</tspan>
+</text>
+<path d="M608.5 706.5C571.833 706.5 548.5 708.833 538.5 713.5C528.5 718.167 522.5 727.167 520.5 740.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M476.5 1170.5L604.5 1170.5C606.157 1170.5 607.5 1171.84 607.5 1173.5L607.5 1187.5C607.5 1189.16 606.157 1190.5 604.5 1190.5L476.5 1190.5C474.843 1190.5 473.5 1189.16 473.5 1187.5L473.5 1173.5C473.5 1171.84 474.843 1170.5 476.5 1170.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 500.141 1173.67)" x="0" y="0">
+<tspan textLength="79.7188" x="41.3594" y="9">Polling and Streaming</tspan>
+</text>
+<path d="M612 1125.33C612.333 1068.78 621.563 1043.83 639.69 1050.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M85.75 199.5L247.75 199.5C248.993 199.5 250 200.507 250 201.75L250 212.25C250 213.493 248.993 214.5 247.75 214.5L85.75 214.5C84.5074 214.5 83.5 213.493 83.5 212.25L83.5 201.75C83.5 200.507 84.5074 199.5 85.75 199.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 119.078 201.737)" x="0" y="0">
+<tspan textLength="93.8438" x="48.4219" y="7">Logging and Metrics Calculation</tspan>
+</text>
+<path d="M343.5 180.5C323.5 180.5 308.5 182.167 298.5 185.5C288.5 188.833 272.333 196 250 207" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M642.69 1040.5L735.69 1040.5C737.347 1040.5 738.69 1041.84 738.69 1043.5L738.69 1057.5C738.69 1059.16 737.347 1060.5 735.69 1060.5L642.69 1060.5C641.033 1060.5 639.69 1059.16 639.69 1057.5L639.69 1043.5C639.69 1041.84 641.033 1040.5 642.69 1040.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 660.785 1043.67)" x="0" y="0">
+<tspan textLength="56.4297" x="29.7148" y="9">Data Collection</tspan>
+</text>
+<path d="M52.41 816.12L297.59 816.12C299.473 816.12 301 817.647 301 819.53L301 835.46C301 837.343 299.473 838.87 297.59 838.87L52.41 838.87C50.5267 838.87 49 837.343 49 835.46L49 819.53C49 817.647 50.5267 816.12 52.41 816.12Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 93.707 820.672)" x="0" y="0">
+<tspan textLength="162.586" x="82.793" y="9">Adding Server and Handling Failing Servers</tspan>
+</text>
+<path d="M273.5 862.75C250.167 867.083 234.833 864.25 227.5 854.25C220.167 844.25 202.667 839.123 175 838.87" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M494.5 953.5C494.5 947.149 499.649 942 506 942C512.351 942 517.5 947.149 517.5 953.5C517.5 959.851 512.351 965 506 965C499.649 965 494.5 959.851 494.5 953.5Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M533.5 953.75C533.5 953.75 528.167 953.667 517.5 953.5" fill="none" opacity="1" stroke="#6c8ebf" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M537.17 941.5L680.83 941.5C682.857 941.5 684.5 943.143 684.5 945.17L684.5 962.33C684.5 964.357 682.857 966 680.83 966L537.17 966C535.143 966 533.5 964.357 533.5 962.33L533.5 945.17C533.5 943.143 535.143 941.5 537.17 941.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 550.591 945.606)" x="0" y="0">
+<tspan textLength="116.817" x="59.9086" y="11">Content Delivery Network</tspan>
+</text>
+<path d="M712 970.25C712 970.25 702.833 964.75 684.5 953.75" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M714.25 959L809.75 959C810.993 959 812 960.007 812 961.25L812 971.75C812 972.993 810.993 974 809.75 974L714.25 974C713.007 974 712 972.993 712 971.75L712 961.25C712 960.007 713.007 959 714.25 959Z" fill="#ffff66" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 747.616 960.737)" x="0" y="0">
+<tspan textLength="28.7688" x="15.8844" y="7">Pull CDNs</tspan>
+</text>
+<path d="M404.88 205.5C407.627 255.5 418.167 285.5 436.5 295.5C454.833 305.5 465.623 314 468.87 321" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M342.5 165.5C313.833 142.167 283 126.167 250 117.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M664 460C650.333 473.667 633 481.167 612 482.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667 450L761 450C762.657 450 764 451.343 764 453L764 467C764 468.657 762.657 470 761 470L667 470C665.343 470 664 468.657 664 467L664 453C664 451.343 665.343 450 667 450Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 696.274 453.705)" x="0" y="0">
+<tspan textLength="35.4516" x="19.2258" y="8">Scalability</tspan>
+</text>
+<path d="M665.75 410.5C637.583 437.167 620.167 452.167 613.5 455.5C606.833 458.833 588.167 467.833 557.5 482.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M668.75 400.5L762.75 400.5C764.407 400.5 765.75 401.843 765.75 403.5L765.75 417.5C765.75 419.157 764.407 420.5 762.75 420.5L668.75 420.5C667.093 420.5 665.75 419.157 665.75 417.5L665.75 403.5C665.75 401.843 667.093 400.5 668.75 400.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 689.079 404.705)" x="0" y="0">
+<tspan textLength="51.8414" x="27.4207" y="8">Shapes of Data</tspan>
+</text>
+<path d="M664 511.5C657 504.167 639.667 500.333 612 500" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667 501.5L761 501.5C762.657 501.5 764 502.843 764 504.5L764 518.5C764 520.157 762.657 521.5 761 521.5L667 521.5C665.343 521.5 664 520.157 664 518.5L664 504.5C664 502.843 665.343 501.5 667 501.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 686.982 505.705)" x="0" y="0">
+<tspan textLength="54.0352" x="28.5176" y="8">SQL VS NoSQL</tspan>
+</text>
+<path d="M664.5 536.5C657.167 519.167 639.833 510.5 612.5 510.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667.5 526.5L812 526.5C813.657 526.5 815 527.843 815 529.5L815 543.5C815 545.157 813.657 546.5 812 546.5L667.5 546.5C665.843 546.5 664.5 545.157 664.5 543.5L664.5 529.5C664.5 527.843 665.843 526.5 667.5 526.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 690.773 530.705)" x="0" y="0">
+<tspan textLength="96.4547" x="49.7273" y="8">Required Memory Estimation</tspan>
+</text>
+<path d="M665 435C650.667 452 623.917 467.833 584.75 482.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M668 425L762 425C763.657 425 765 426.343 765 428L765 442C765 443.657 763.657 445 762 445L668 445C666.343 445 665 443.657 665 442L665 428C665 426.343 666.343 425 668 425Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 682.152 428.705)" x="0" y="0">
+<tspan textLength="65.6965" x="34.3482" y="8">Sorts &amp; Availability</tspan>
+</text>
+<path d="M426.5 529C426.5 522.649 431.649 517.5 438 517.5C444.351 517.5 449.5 522.649 449.5 529C449.5 535.351 444.351 540.5 438 540.5C431.649 540.5 426.5 535.351 426.5 529Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M457.5 410.5C441.5 417.167 436.517 427.5 442.55 441.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M433.25 1318C407.583 1293 382.75 1287.42 358.75 1301.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M715 944.75C707.333 950.583 696.21 949.973 681.63 942.92" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M717.25 933.5L812.75 933.5C813.993 933.5 815 934.507 815 935.75L815 946.25C815 947.493 813.993 948.5 812.75 948.5L717.25 948.5C716.007 948.5 715 947.493 715 946.25L715 935.75C715 934.507 716.007 933.5 717.25 933.5Z" fill="#ffff66" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 748.962 935.737)" x="0" y="0">
+<tspan textLength="32.075" x="17.5375" y="7">Push CDNs</tspan>
+</text>
+<path d="M410.95 441.5L484.05 441.5C485.955 441.5 487.5 443.045 487.5 444.95L487.5 461.05C487.5 462.955 485.955 464.5 484.05 464.5L410.95 464.5C409.045 464.5 407.5 462.955 407.5 461.05L407.5 444.95C407.5 443.045 409.045 441.5 410.95 441.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 425.328 446.672)" x="0" y="0">
+<tspan textLength="43.3438" x="23.1719" y="9">Throughput</tspan>
+</text>
+<path d="M391.5 321L555.5 321C557.157 321 558.5 322.343 558.5 324L558.5 338C558.5 339.657 557.157 341 555.5 341L391.5 341C389.843 341 388.5 339.657 388.5 338L388.5 324C388.5 322.343 389.843 321 391.5 321Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 432.562 324.672)" x="0" y="0">
+<tspan textLength="80.875" x="41.9375" y="9">Networks &amp; Protocols</tspan>
+</text>
+<path d="M342.5 160.5C313.833 131.167 283.333 110.333 251 98" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M473.5 341C480.167 360.667 477.667 375.833 466 386.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M565.25 359L667.75 359C669.407 359 670.75 360.343 670.75 362L670.75 376C670.75 377.657 669.407 379 667.75 379L565.25 379C563.593 379 562.25 377.657 562.25 376L562.25 362C562.25 360.343 563.593 359 565.25 359Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 580.276 362.705)" x="0" y="0">
+<tspan textLength="71.448" x="37.224" y="8">Metrics &amp; Calculation</tspan>
+</text>
+<path d="M562.25 369C543.083 370 527.667 380.833 516 401.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M420.5 386.5L511.5 386.5C513.985 386.5 516 388.515 516 391L516 412C516 414.485 513.985 416.5 511.5 416.5L420.5 416.5C418.015 416.5 416 414.485 416 412L416 391C416 388.515 418.015 386.5 420.5 386.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 451.443 394.672)" x="0" y="0">
+<tspan textLength="29.1133" x="16.0566" y="9">Latency</tspan>
+</text>
+<path d="M62 872.75L209 872.75C210.657 872.75 212 874.093 212 875.75L212 889.75C212 891.407 210.657 892.75 209 892.75L62 892.75C60.3431 892.75 59 891.407 59 889.75L59 875.75C59 874.093 60.3431 872.75 62 872.75Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 99.4121 875.672)" x="0" y="0">
+<tspan textLength="71.1758" x="37.0879" y="9">Consistent Hashing</tspan>
+</text>
+<path d="M273.5 867.75C253.5 871.583 233 876.583 212 882.75" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M276.5 852.75L400.5 852.75C402.157 852.75 403.5 854.093 403.5 855.75L403.5 869.75C403.5 871.407 402.157 872.75 400.5 872.75L276.5 872.75C274.843 872.75 273.5 871.407 273.5 869.75L273.5 855.75C273.5 854.093 274.843 852.75 276.5 852.75Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 316.07 855.672)" x="0" y="0">
+<tspan textLength="43.8594" x="23.4297" y="9">Consistency</tspan>
+</text>
+<path d="M664 485.5C650.333 489.5 640.167 491.5 633.5 491.5C626.833 491.5 619.667 491.417 612 491.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667 475.5L761 475.5C762.657 475.5 764 476.843 764 478.5L764 492.5C764 494.157 762.657 495.5 761 495.5L667 495.5C665.343 495.5 664 494.157 664 492.5L664 478.5C664 476.843 665.343 475.5 667 475.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 694.263 479.705)" x="0" y="0">
+<tspan textLength="39.4734" x="21.2367" y="8">Consistency</tspan>
+</text>
+<path d="M126.75 90.5L248.75 90.5C249.993 90.5 251 91.5074 251 92.75L251 103.25C251 104.493 249.993 105.5 248.75 105.5L126.75 105.5C125.507 105.5 124.5 104.493 124.5 103.25L124.5 92.75C124.5 91.5074 125.507 90.5 126.75 90.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 170.231 92.7375)" x="0" y="0">
+<tspan textLength="33.5375" x="18.2688" y="7">What is it?</tspan>
+</text>
+<path d="M125.75 110L247.75 110C248.993 110 250 111.007 250 112.25L250 122.75C250 123.993 248.993 125 247.75 125L125.75 125C124.507 125 123.5 123.993 123.5 122.75L123.5 112.25C123.5 111.007 124.507 110 125.75 110Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 160.136 111.737)" x="0" y="0">
+<tspan textLength="51.7281" x="27.3641" y="7">Why you need it?</tspan>
+</text>
+<path d="M125.75 128L247.75 128C248.993 128 250 129.007 250 130.25L250 140.75C250 141.993 248.993 143 247.75 143L125.75 143C124.507 143 123.5 141.993 123.5 140.75L123.5 130.25C123.5 129.007 124.507 128 125.75 128Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 165.142 129.737)" x="0" y="0">
+<tspan textLength="41.7156" x="22.3578" y="7">How to start?</tspan>
+</text>
+<path d="M95.75 146L247.75 146C248.993 146 250 147.007 250 148.25L250 158.75C250 159.993 248.993 161 247.75 161L95.75 161C94.5074 161 93.5 159.993 93.5 158.75L93.5 148.25C93.5 147.007 94.5074 146 95.75 146Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 125.577 147.737)" x="0" y="0">
+<tspan textLength="90.8469" x="46.9234" y="7">Horizontal VS Vertical Scaling</tspan>
+</text>
+<path d="M115.75 181.5L247.75 181.5C248.993 181.5 250 182.507 250 183.75L250 194.25C250 195.493 248.993 196.5 247.75 196.5L115.75 196.5C114.507 196.5 113.5 195.493 113.5 194.25L113.5 183.75C113.5 182.507 114.507 181.5 115.75 181.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 142.509 183.737)" x="0" y="0">
+<tspan textLength="76.9813" x="39.9906" y="7">Monolith VS Microservice</tspan>
+</text>
+<path d="M228.75 308L271.25 308C272.493 308 273.5 309.007 273.5 310.25L273.5 320.75C273.5 321.993 272.493 323 271.25 323L228.75 323C227.507 323 226.5 321.993 226.5 320.75L226.5 310.25C226.5 309.007 227.507 308 228.75 308Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 246.586 309.737)" x="0" y="0">
+<tspan textLength="6.82813" x="4.91406" y="7">IP</tspan>
+</text>
+<path d="M228.75 326L271.25 326C272.493 326 273.5 327.007 273.5 328.25L273.5 338.75C273.5 339.993 272.493 341 271.25 341L228.75 341C227.507 341 226.5 339.993 226.5 338.75L226.5 328.25C226.5 327.007 227.507 326 228.75 326Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 244.231 327.737)" x="0" y="0">
+<tspan textLength="11.5375" x="7.26875" y="7">TCP</tspan>
+</text>
+<path d="M125.75 218.5L247.75 218.5C248.993 218.5 250 219.507 250 220.75L250 231.25C250 232.493 248.993 233.5 247.75 233.5L125.75 233.5C124.507 233.5 123.5 232.493 123.5 231.25L123.5 220.75C123.5 219.507 124.507 218.5 125.75 218.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 154.98 220.737)" x="0" y="0">
+<tspan textLength="62.0406" x="32.5203" y="7">Software Decoupling</tspan>
+</text>
+<path d="M342 175.5C321.667 191.5 306.5 201.167 296.5 204.5C286.5 207.833 271 215 250 226" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M125.5 237.5L247.5 237.5C248.743 237.5 249.75 238.507 249.75 239.75L249.75 250.25C249.75 251.493 248.743 252.5 247.5 252.5L125.5 252.5C124.257 252.5 123.25 251.493 123.25 250.25L123.25 239.75C123.25 238.507 124.257 237.5 125.5 237.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 166.98 239.737)" x="0" y="0">
+<tspan textLength="38.0406" x="20.5203" y="7">Extensibility</tspan>
+</text>
+<path d="M341.75 194.5C321.417 210.5 306.25 220.167 296.25 223.5C286.25 226.833 270.75 234 249.75 245" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M115.75 255.5L247.5 255.5C248.743 255.5 249.75 256.507 249.75 257.75L249.75 268.25C249.75 269.493 248.743 270.5 247.5 270.5L115.75 270.5C114.507 270.5 113.5 269.493 113.5 268.25L113.5 257.75C113.5 256.507 114.507 255.5 115.75 255.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 137.542 257.737)" x="0" y="0">
+<tspan textLength="86.9156" x="44.9578" y="7">Master &amp; Slave Architecture</tspan>
+</text>
+<path d="M341.75 212.5C321.417 228.5 306.25 238.167 296.25 241.5C286.25 244.833 270.75 252 249.75 263" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M672.25 205L752.25 205C753.493 205 754.5 206.007 754.5 207.25L754.5 217.75C754.5 218.993 753.493 220 752.25 220L672.25 220C671.007 220 670 218.993 670 217.75L670 207.25C670 206.007 671.007 205 672.25 205Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 696.244 206.737)" x="0" y="0">
+<tspan textLength="31.5125" x="17.2563" y="7">Scalability</tspan>
+</text>
+<path d="M593.5 200.5C626.833 207.833 652.333 211.833 670 212.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M672.25 225L752.25 225C753.493 225 754.5 226.007 754.5 227.25L754.5 237.75C754.5 238.993 753.493 240 752.25 240L672.25 240C671.007 240 670 238.993 670 237.75L670 227.25C670 226.007 671.007 225 672.25 225Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 688.681 226.737)" x="0" y="0">
+<tspan textLength="46.6375" x="24.8188" y="7">Fault Tolerance</tspan>
+</text>
+<path d="M593.5 200.5C613.5 213.833 639 224.5 670 232.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M673 244.75L753 244.75C754.243 244.75 755.25 245.757 755.25 247L755.25 257.5C755.25 258.743 754.243 259.75 753 259.75L673 259.75C671.757 259.75 670.75 258.743 670.75 257.5L670.75 247C670.75 245.757 671.757 244.75 673 244.75Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 692.794 246.737)" x="0" y="0">
+<tspan textLength="40.4125" x="21.7063" y="7">Transparency</tspan>
+</text>
+<path d="M593.5 200.5C606.833 220.5 632.583 237.75 670.75 252.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M388.5 331C349.5 339.333 311 346.5 273 352.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M228.25 345L270.75 345C271.993 345 273 346.007 273 347.25L273 357.75C273 358.993 271.993 360 270.75 360L228.25 360C227.007 360 226 358.993 226 357.75L226 347.25C226 346.007 227.007 345 228.25 345Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 242.667 346.737)" x="0" y="0">
+<tspan textLength="12.6656" x="7.83281" y="7">UDP</tspan>
+</text>
+<path d="M388.5 331C349.5 352 311 365.75 273 372.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M228.48 364L270.52 364C271.89 364 273 365.11 273 366.48L273 378.02C273 379.39 271.89 380.5 270.52 380.5L228.48 380.5C227.11 380.5 226 379.39 226 378.02L226 366.48C226 365.11 227.11 364 228.48 364Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 240.527 366.737)" x="0" y="0">
+<tspan textLength="16.9469" x="9.97344" y="7">HTTP</tspan>
+</text>
+<path d="M388.5 331C349.833 365.333 311.5 385.5 273.5 391.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M228.75 384L271.25 384C272.493 384 273.5 385.007 273.5 386.25L273.5 396.75C273.5 397.993 272.493 399 271.25 399L228.75 399C227.507 399 226.5 397.993 226.5 396.75L226.5 386.25C226.5 385.007 227.507 384 228.75 384Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 239.308 385.737)" x="0" y="0">
+<tspan textLength="21.3844" x="12.1922" y="7">HTTPS</tspan>
+</text>
+<path d="M388.5 331C349.833 378 311.5 405.5 273.5 413.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M229.25 403L271.75 403C272.993 403 274 404.007 274 405.25L274 415.75C274 416.993 272.993 418 271.75 418L229.25 418C228.007 418 227 416.993 227 415.75L227 405.25C227 404.007 228.007 403 229.25 403Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 242.922 404.737)" x="0" y="0">
+<tspan textLength="14.1563" x="8.57813" y="7">DNS</tspan>
+</text>
+<path d="M388.5 326C350.833 389 312.667 423.5 274 429.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M229.25 422L271.75 422C272.993 422 274 423.007 274 424.25L274 434.75C274 435.993 272.993 437 271.75 437L229.25 437C228.007 437 227 435.993 227 434.75L227 424.25C227 423.007 228.007 422 229.25 422Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 241.597 423.737)" x="0" y="0">
+<tspan textLength="16.8063" x="9.90313" y="7">REST</tspan>
+</text>
+<path d="M388.5 331C350.167 403.667 311.667 443 273 449" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M228.25 441.5L270.75 441.5C271.993 441.5 273 442.507 273 443.75L273 454.25C273 455.493 271.993 456.5 270.75 456.5L228.25 456.5C227.007 456.5 226 455.493 226 454.25L226 443.75C226 442.507 227.007 441.5 228.25 441.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 243.395 443.737)" x="0" y="0">
+<tspan textLength="11.2094" x="7.10469" y="7">RPC</tspan>
+</text>
+<path d="M664.5 563C650.5 541.333 633.167 527.167 612.5 520.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667.5 553L812 553C813.657 553 815 554.343 815 556L815 570C815 571.657 813.657 573 812 573L667.5 573C665.843 573 664.5 571.657 664.5 570L664.5 556C664.5 554.343 665.843 553 667.5 553Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 690.934 556.705)" x="0" y="0">
+<tspan textLength="96.1313" x="49.5656" y="8">Sharding &amp; Data Partitioning</tspan>
+</text>
+<path d="M664.5 589.63C643.833 556.877 619.113 532.833 590.34 517.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667.5 579.63L812 579.63C813.657 579.63 815 580.973 815 582.63L815 596.63C815 598.287 813.657 599.63 812 599.63L667.5 599.63C665.843 599.63 664.5 598.287 664.5 596.63L664.5 582.63C664.5 580.973 665.843 579.63 667.5 579.63Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 703.914 583.705)" x="0" y="0">
+<tspan textLength="70.1719" x="36.5859" y="8">Database Replication</tspan>
+</text>
+<path d="M664.5 617.5C657.167 606.167 648.5 592.167 638.5 575.5C628.5 558.833 609.123 539.5 580.37 517.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667.5 607.5L812 607.5C813.657 607.5 815 608.843 815 610.5L815 624.5C815 626.157 813.657 627.5 812 627.5L667.5 627.5C665.843 627.5 664.5 626.157 664.5 624.5L664.5 610.5C664.5 608.843 665.843 607.5 667.5 607.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 718.513 611.705)" x="0" y="0">
+<tspan textLength="40.9746" x="21.9873" y="8">Map-Reduce</tspan>
+</text>
+<path d="M664.5 644.5C630.5 581.833 594.833 539.5 557.5 517.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667.5 634.5L812 634.5C813.657 634.5 815 635.843 815 637.5L815 651.5C815 653.157 813.657 654.5 812 654.5L667.5 654.5C665.843 654.5 664.5 653.157 664.5 651.5L664.5 637.5C664.5 635.843 665.843 634.5 667.5 634.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 729.633 638.705)" x="0" y="0">
+<tspan textLength="18.7348" x="10.8674" y="8">ACID</tspan>
+</text>
+<path d="M286 464.5L388.5 464.5C390.157 464.5 391.5 465.843 391.5 467.5L391.5 481.5C391.5 483.157 390.157 484.5 388.5 484.5L286 484.5C284.343 484.5 283 483.157 283 481.5L283 467.5C283 465.843 284.343 464.5 286 464.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 301.276 468.705)" x="0" y="0">
+<tspan textLength="71.448" x="37.224" y="8">Metrics &amp; Calculation</tspan>
+</text>
+<path d="M337.25 464.5C368.083 448.5 391.5 444.667 407.5 453" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M445.5 464.5C450.833 481.833 448.333 499.5 438 517.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M255.5 540.5L359.5 540.5C361.157 540.5 362.5 541.843 362.5 543.5L362.5 557.5C362.5 559.157 361.157 560.5 359.5 560.5L255.5 560.5C253.843 560.5 252.5 559.157 252.5 557.5L252.5 543.5C252.5 541.843 253.843 540.5 255.5 540.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 286.141 543.672)" x="0" y="0">
+<tspan textLength="41.7188" x="22.3594" y="9">Availability</tspan>
+</text>
+<path d="M117.5 556.5L232.5 556.5C234.571 556.5 236.25 558.179 236.25 560.25L236.25 577.75C236.25 579.821 234.571 581.5 232.5 581.5L117.5 581.5C115.429 581.5 113.75 579.821 113.75 577.75L113.75 560.25C113.75 558.179 115.429 556.5 117.5 556.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 141.967 563.737)" x="0" y="0">
+<tspan textLength="66.0656" x="34.5328" y="7">Single Point of Failure</tspan>
+</text>
+<path d="M117.52 490.5L227.73 490.5C229.95 490.5 231.75 492.3 231.75 494.52L231.75 513.31C231.75 515.53 229.95 517.33 227.73 517.33L117.52 517.33C115.3 517.33 113.5 515.53 113.5 513.31L113.5 494.52C113.5 492.3 115.3 490.5 117.52 490.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 150.197 498.737)" x="0" y="0">
+<tspan textLength="43.6063" x="23.3031" y="7">Forward Proxy</tspan>
+</text>
+<path d="M307.5 560.5C307.5 583.167 283.75 586 236.25 569" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M231.75 503.91C272.917 501.637 298.167 513.833 307.5 540.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M118 521.5L227.25 521.5C229.735 521.5 231.75 523.515 231.75 526L231.75 547C231.75 549.485 229.735 551.5 227.25 551.5L118 551.5C115.515 551.5 113.5 549.485 113.5 547L113.5 526C113.5 523.515 115.515 521.5 118 521.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 150.681 530.737)" x="0" y="0">
+<tspan textLength="42.6375" x="22.8188" y="7">Reverse Proxy</tspan>
+</text>
+<path d="M280 540.5C275.667 527.167 259.583 525.833 231.75 536.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M426.5 529C397.833 510 372.503 513.407 350.51 539.22" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M516 792.5L599 792.5C600.657 792.5 602 793.843 602 795.5L602 809.5C602 811.157 600.657 812.5 599 812.5L516 812.5C514.343 812.5 513 811.157 513 809.5L513 795.5C513 793.843 514.343 792.5 516 792.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 536.308 796.737)" x="0" y="0">
+<tspan textLength="41.3844" x="22.1922" y="7">Read Through</tspan>
+</text>
+<path d="M608.5 706.5C608.5 706.5 606.333 735.167 602 792.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M553.69 817.5L636.69 817.5C638.347 817.5 639.69 818.843 639.69 820.5L639.69 834.5C639.69 836.157 638.347 837.5 636.69 837.5L553.69 837.5C552.033 837.5 550.69 836.157 550.69 834.5L550.69 820.5C550.69 818.843 552.033 817.5 553.69 817.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 572.567 821.737)" x="0" y="0">
+<tspan textLength="44.8656" x="23.9328" y="7">Write Through</tspan>
+</text>
+<path d="M621.81 707.34C627.73 758.78 629.24 795.553 626.34 817.66" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M589.99 844.5L719.6 844.5C721.754 844.5 723.5 846.246 723.5 848.4L723.5 866.6C723.5 868.754 721.754 870.5 719.6 870.5L589.99 870.5C587.836 870.5 586.09 868.754 586.09 866.6L586.09 848.4C586.09 846.246 587.836 844.5 589.99 844.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 613.647 851.737)" x="0" y="0">
+<tspan textLength="80.7063" x="41.8531" y="7">Write Back (Write Behind)</tspan>
+</text>
+<path d="M636 706.5C649.667 771.833 656.07 817.833 655.21 844.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M667 817.5L750 817.5C751.657 817.5 753 818.843 753 820.5L753 834.5C753 836.157 751.657 837.5 750 837.5L667 837.5C665.343 837.5 664 836.157 664 834.5L664 820.5C664 818.843 665.343 817.5 667 817.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 687.242 821.737)" x="0" y="0">
+<tspan textLength="41.5156" x="22.2578" y="7">Write Around</tspan>
+</text>
+<path d="M643.5 707.5C656.833 762.833 667.997 799.447 676.99 817.34" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M688.5 792.5L782.5 792.5C784.157 792.5 785.5 793.843 785.5 795.5L785.5 809.5C785.5 811.157 784.157 812.5 782.5 812.5L688.5 812.5C686.843 812.5 685.5 811.157 685.5 809.5L685.5 795.5C685.5 793.843 686.843 792.5 688.5 792.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 706.136 796.737)" x="0" y="0">
+<tspan textLength="57.7281" x="30.3641" y="7">Application Caching</tspan>
+</text>
+<path d="M653.5 696.5C660.167 739.167 679.167 771.167 710.5 792.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M713.5 766.5L796.5 766.5C798.157 766.5 799.5 767.843 799.5 769.5L799.5 783.5C799.5 785.157 798.157 786.5 796.5 786.5L713.5 786.5C711.843 786.5 710.5 785.157 710.5 783.5L710.5 769.5C710.5 767.843 711.843 766.5 713.5 766.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 728.777 770.737)" x="0" y="0">
+<tspan textLength="52.4469" x="27.7234" y="7">Database Caching</tspan>
+</text>
+<path d="M663.5 707.5C683.5 742.833 699.167 762.5 710.5 766.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M714.5 740.5L804.5 740.5C806.157 740.5 807.5 741.843 807.5 743.5L807.5 757.5C807.5 759.157 806.157 760.5 804.5 760.5L714.5 760.5C712.843 760.5 711.5 759.157 711.5 757.5L711.5 743.5C711.5 741.843 712.843 740.5 714.5 740.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 730.009 744.737)" x="0" y="0">
+<tspan textLength="57.9813" x="30.4906" y="7">In-Memory Caching</tspan>
+</text>
+<path d="M691 701.5C712.667 707.5 731.82 720.833 748.46 741.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M262 690.5L366 690.5C367.657 690.5 369 691.843 369 693.5L369 707.5C369 709.157 367.657 710.5 366 710.5L262 710.5C260.343 710.5 259 709.157 259 707.5L259 693.5C259 691.843 260.343 690.5 262 690.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 300.271 693.672)" x="0" y="0">
+<tspan textLength="27.457" x="15.2285" y="9">Proxies</tspan>
+</text>
+<path d="M126.2 722.5L237.55 722.5C239.041 722.5 240.25 723.709 240.25 725.2L240.25 737.8C240.25 739.291 239.041 740.5 237.55 740.5L126.2 740.5C124.709 740.5 123.5 739.291 123.5 737.8L123.5 725.2C123.5 723.709 124.709 722.5 126.2 722.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 169.661 725.737)" x="0" y="0">
+<tspan textLength="22.6781" x="12.8391" y="7">NGINX</tspan>
+</text>
+<path d="M286.5 710.5C284.5 720.5 281.833 726.333 278.5 728C275.167 729.667 262.417 730.833 240.25 731.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M240.75 676.33C268.917 662.33 293.333 667.053 314 690.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M123.75 708.5C123.75 708.5 147.833 707.443 196 705.33" fill="none" opacity="1" stroke="#6c8ebf" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M421.87 683.13C388.957 706.43 371.333 712.22 369 700.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M125.9 745.5L238.35 745.5C239.675 745.5 240.75 746.575 240.75 747.9L240.75 759.1C240.75 760.425 239.675 761.5 238.35 761.5L125.9 761.5C124.575 761.5 123.5 760.425 123.5 759.1L123.5 747.9C123.5 746.575 124.575 745.5 125.9 745.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 168.761 747.737)" x="0" y="0">
+<tspan textLength="26.4781" x="14.7391" y="7">HAProxy</tspan>
+</text>
+<path d="M314.5 710.5C303.167 757.72 278.583 772.053 240.75 753.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M242 705.33C242 705.33 241.417 706.387 240.25 708.5" fill="none" opacity="1" stroke="#6c8ebf" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M126.45 699.5L237.8 699.5C239.291 699.5 240.5 700.709 240.5 702.2L240.5 714.8C240.5 716.291 239.291 717.5 237.8 717.5L126.45 717.5C124.959 717.5 123.75 716.291 123.75 714.8L123.75 702.2C123.75 700.709 124.959 699.5 126.45 699.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 160.681 702.737)" x="0" y="0">
+<tspan textLength="42.6375" x="22.8188" y="7">Reverse Proxy</tspan>
+</text>
+<path d="M259 700.5C259 700.5 252.833 703.167 240.5 708.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M126.7 676.33L238.05 676.33C239.541 676.33 240.75 677.539 240.75 679.03L240.75 691.63C240.75 693.121 239.541 694.33 238.05 694.33L126.7 694.33C125.209 694.33 124 693.121 124 691.63L124 679.03C124 677.539 125.209 676.33 126.7 676.33Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 160.197 679.737)" x="0" y="0">
+<tspan textLength="43.6063" x="23.3031" y="7">Forward Proxy</tspan>
+</text>
+<path d="M436 782C436 775.649 441.149 770.5 447.5 770.5C453.851 770.5 459 775.649 459 782C459 788.351 453.851 793.5 447.5 793.5C441.149 793.5 436 788.351 436 782Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M421.87 683.13C416.29 714.71 422.707 744.477 441.12 772.43" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M428.68 535.73C422.807 539.917 422.957 582.517 429.13 663.53" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M453.5 793.5C466.833 811.5 470.167 840.5 463.5 880.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M454.77 887.04C440.59 884.013 430.167 888.167 423.5 899.5C416.833 910.833 410.333 914.667 404 911" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M277 901L401 901C402.657 901 404 902.343 404 904L404 918C404 919.657 402.657 921 401 921L277 921C275.343 921 274 919.657 274 918L274 904C274 902.343 275.343 901 277 901Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 313.842 904.672)" x="0" y="0">
+<tspan textLength="50.3164" x="26.6582" y="9">CAP Theorem</tspan>
+</text>
+<path d="M466 901C477.667 914 488.29 928.79 497.87 945.37" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M464.73 897.19C457.243 894.063 450.167 897.167 443.5 906.5C436.833 915.833 428.5 923.833 418.5 930.5C408.5 937.167 382.667 951.333 341 973" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M65.65 993L124.35 993C126.09 993 127.5 994.41 127.5 996.15L127.5 1010.85C127.5 1012.59 126.09 1014 124.35 1014L65.65 1014C63.9103 1014 62.5 1012.59 62.5 1010.85L62.5 996.15C62.5 994.41 63.9103 993 65.65 993Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 76.9672 997.737)" x="0" y="0">
+<tspan textLength="36.0656" x="19.5328" y="7">Round Robin</tspan>
+</text>
+<path d="M243.5 978C189.333 973.667 139.833 978.667 95 993" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M136.65 1076.25L255.35 1076.25C257.09 1076.25 258.5 1077.66 258.5 1079.4L258.5 1094.1C258.5 1095.84 257.09 1097.25 255.35 1097.25L136.65 1097.25C134.91 1097.25 133.5 1095.84 133.5 1094.1L133.5 1079.4C133.5 1077.66 134.91 1076.25 136.65 1076.25Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 155.092 1081.74)" x="0" y="0">
+<tspan textLength="81.8156" x="42.4078" y="7">IP Hashing Based Selection</tspan>
+</text>
+<path d="M308.5 993C291.833 1018 280.167 1033.83 273.5 1040.5C266.833 1047.17 254.627 1058.69 236.88 1075.07" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M196.65 1103.75L330.85 1103.75C332.59 1103.75 334 1105.16 334 1106.9L334 1121.6C334 1123.34 332.59 1124.75 330.85 1124.75L196.65 1124.75C194.91 1124.75 193.5 1123.34 193.5 1121.6L193.5 1106.9C193.5 1105.16 194.91 1103.75 196.65 1103.75Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 215.083 1108.74)" x="0" y="0">
+<tspan textLength="95.8344" x="49.4172" y="7">Path or Service Based Selection</tspan>
+</text>
+<path d="M308.5 993C305.167 1036 301.833 1059.67 298.5 1064C295.167 1068.33 293.5 1071.67 293.5 1074C293.5 1076.33 286.833 1085.83 273.5 1102.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M308.15 1075.5L370.35 1075.5C372.09 1075.5 373.5 1076.91 373.5 1078.65L373.5 1093.35C373.5 1095.09 372.09 1096.5 370.35 1096.5L308.15 1096.5C306.41 1096.5 305 1095.09 305 1093.35L305 1078.65C305 1076.91 306.41 1075.5 308.15 1075.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 323.447 1080.74)" x="0" y="0">
+<tspan textLength="31.1063" x="17.0531" y="7">Mixed Bag</tspan>
+</text>
+<path d="M309.13 993C310.71 1018 315.043 1045.5 322.13 1075.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M337.15 1048.5L480.35 1048.5C482.09 1048.5 483.5 1049.91 483.5 1051.65L483.5 1066.35C483.5 1068.09 482.09 1069.5 480.35 1069.5L337.15 1069.5C335.41 1069.5 334 1068.09 334 1066.35L334 1051.65C334 1049.91 335.41 1048.5 337.15 1048.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 359.847 1053.74)" x="0" y="0">
+<tspan textLength="96.3063" x="49.6531" y="7">Load Balancer for Load Balancer</tspan>
+</text>
+<path d="M318.51 994.84C327.837 1018.61 345.46 1036.5 371.38 1048.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M377.65 1020.5L480.35 1020.5C482.09 1020.5 483.5 1021.91 483.5 1023.65L483.5 1038.35C483.5 1040.09 482.09 1041.5 480.35 1041.5L377.65 1041.5C375.91 1041.5 374.5 1040.09 374.5 1038.35L374.5 1023.65C374.5 1021.91 375.91 1020.5 377.65 1020.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 395.102 1025.74)" x="0" y="0">
+<tspan textLength="67.7969" x="35.3984" y="7">Layer 4 Load Balancing</tspan>
+</text>
+<path d="M341 993C349.333 1004.67 360.167 1017.17 373.5 1030.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M405.65 993L508.35 993C510.09 993 511.5 994.41 511.5 996.15L511.5 1010.85C511.5 1012.59 510.09 1014 508.35 1014L405.65 1014C403.91 1014 402.5 1012.59 402.5 1010.85L402.5 996.15C402.5 994.41 403.91 993 405.65 993Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="6.4" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 423.102 997.737)" x="0" y="0">
+<tspan textLength="67.7969" x="35.3984" y="7">Layer 7 Load Balancing</tspan>
+</text>
+<path d="M373.5 983C378.833 983 388.167 989.667 401.5 1003" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M517.5 960.5C514.833 960.5 523.5 972.167 543.5 995.5C563.5 1018.83 563.25 1060.44 542.75 1120.33" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M612.5 1130.5C612.5 1086.95 621.563 1068.84 639.69 1076.17" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M642.69 1066.17L735.69 1066.17C737.347 1066.17 738.69 1067.51 738.69 1069.17L738.69 1083.17C738.69 1084.83 737.347 1086.17 735.69 1086.17L642.69 1086.17C641.033 1086.17 639.69 1084.83 639.69 1083.17L639.69 1069.17C639.69 1067.51 641.033 1066.17 642.69 1066.17Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 670.223 1069.67)" x="0" y="0">
+<tspan textLength="37.5547" x="20.2773" y="9">Transport</tspan>
+</text>
+<path d="M612.5 1130.5C612.5 1103.61 621.563 1094.17 639.69 1102.17" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M642.69 1092.17L735.69 1092.17C737.347 1092.17 738.69 1093.51 738.69 1095.17L738.69 1109.17C738.69 1110.83 737.347 1112.17 735.69 1112.17L642.69 1112.17C641.033 1112.17 639.69 1110.83 639.69 1109.17L639.69 1095.17C639.69 1093.51 641.033 1092.17 642.69 1092.17Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 673.955 1095.67)" x="0" y="0">
+<tspan textLength="30.0898" x="16.5449" y="9">Storage</tspan>
+</text>
+<path d="M642.69 1119.5L735.69 1119.5C737.347 1119.5 738.69 1120.84 738.69 1122.5L738.69 1136.5C738.69 1138.16 737.347 1139.5 735.69 1139.5L642.69 1139.5C641.033 1139.5 639.69 1138.16 639.69 1136.5L639.69 1122.5C639.69 1120.84 641.033 1119.5 642.69 1119.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 673.74 1122.67)" x="0" y="0">
+<tspan textLength="30.5195" x="16.7598" y="9">Analysis</tspan>
+</text>
+<path d="M612 1130.33C619 1123.78 628.23 1125.17 639.69 1134.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M642.69 1147.5L735.69 1147.5C737.347 1147.5 738.69 1148.84 738.69 1150.5L738.69 1164.5C738.69 1166.16 737.347 1167.5 735.69 1167.5L642.69 1167.5C641.033 1167.5 639.69 1166.16 639.69 1164.5L639.69 1150.5C639.69 1148.84 641.033 1147.5 642.69 1147.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 673.643 1150.67)" x="0" y="0">
+<tspan textLength="30.7148" x="16.8574" y="9">Alerting</tspan>
+</text>
+<path d="M565.11 1140.33C590.703 1151.78 615.563 1157.5 639.69 1157.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M422.91 1182.05C403.303 1187.68 386.833 1186.83 373.5 1179.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M473.5 1185.5C466.833 1188.83 457.5 1186.67 445.5 1179" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M354.75 1337C354.75 1333.41 357.66 1330.5 361.25 1330.5C364.84 1330.5 367.75 1333.41 367.75 1337C367.75 1340.59 364.84 1343.5 361.25 1343.5C357.66 1343.5 354.75 1340.59 354.75 1337Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M142.1 1319.5L317.9 1319.5C320.302 1319.5 322.25 1321.45 322.25 1323.85L322.25 1344.15C322.25 1346.55 320.302 1348.5 317.9 1348.5L142.1 1348.5C139.698 1348.5 137.75 1346.55 137.75 1344.15L137.75 1323.85C137.75 1321.45 139.698 1319.5 142.1 1319.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 165.695 1327.67)" x="0" y="0">
+<tspan textLength="128.609" x="65.8047" y="9">How to Design a Vending Machine?</tspan>
+</text>
+<path d="M322.25 1334C330.583 1338.33 341.417 1339.33 354.75 1337" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.25 1358.75C358.25 1355.02 361.272 1352 365 1352C368.728 1352 371.75 1355.02 371.75 1358.75C371.75 1362.48 368.728 1365.5 365 1365.5C361.272 1365.5 358.25 1362.48 358.25 1358.75Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.1 1343.5L709.65 1343.5C712.052 1343.5 714 1345.45 714 1347.85L714 1368.15C714 1370.55 712.052 1372.5 709.65 1372.5L437.1 1372.5C434.698 1372.5 432.75 1370.55 432.75 1368.15L432.75 1347.85C432.75 1345.45 434.698 1343.5 437.1 1343.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 475.322 1351.67)" x="0" y="0">
+<tspan textLength="195.355" x="99.1777" y="9">How to Design a URL Shortening Service Like bit.ly?</tspan>
+</text>
+<path d="M432.75 1358C416.083 1348.67 395.75 1348.92 371.75 1358.75" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1380C356.5 1376.41 359.41 1373.5 363 1373.5C366.59 1373.5 369.5 1376.41 369.5 1380C369.5 1383.59 366.59 1386.5 363 1386.5C359.41 1386.5 356.5 1383.59 356.5 1380Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M94.85 1360.5L320.9 1360.5C323.302 1360.5 325.25 1362.45 325.25 1364.85L325.25 1385.15C325.25 1387.55 323.302 1389.5 320.9 1389.5L94.85 1389.5C92.4476 1389.5 90.5 1387.55 90.5 1385.15L90.5 1364.85C90.5 1362.45 92.4476 1360.5 94.85 1360.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 129.893 1368.67)" x="0" y="0">
+<tspan textLength="154.215" x="78.6074" y="9">How to Design a Traffic Control System?</tspan>
+</text>
+<path d="M323.75 1375.5C337.083 1380.83 348 1382.33 356.5 1380" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.25 1398.25C358.25 1394.52 361.272 1391.5 365 1391.5C368.728 1391.5 371.75 1394.52 371.75 1398.25C371.75 1401.98 368.728 1405 365 1405C361.272 1405 358.25 1401.98 358.25 1398.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M435.85 1386.75L657.65 1386.75C660.052 1386.75 662 1388.7 662 1391.1L662 1411.4C662 1413.8 660.052 1415.75 657.65 1415.75L435.85 1415.75C433.448 1415.75 431.5 1413.8 431.5 1411.4L431.5 1391.1C431.5 1388.7 433.448 1386.75 435.85 1386.75Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 474.205 1394.67)" x="0" y="0">
+<tspan textLength="143.59" x="73.2949" y="9">How to design a website like Pastebin?</tspan>
+</text>
+<path d="M431.5 1401.25C415.667 1388.08 395.75 1387.08 371.75 1398.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.5 1420C357.5 1416.41 360.41 1413.5 364 1413.5C367.59 1413.5 370.5 1416.41 370.5 1420C370.5 1423.59 367.59 1426.5 364 1426.5C360.41 1426.5 357.5 1423.59 357.5 1420Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M105.1 1400.5L321.9 1400.5C324.302 1400.5 326.25 1402.45 326.25 1404.85L326.25 1425.15C326.25 1427.55 324.302 1429.5 321.9 1429.5L105.1 1429.5C102.698 1429.5 100.75 1427.55 100.75 1425.15L100.75 1404.85C100.75 1402.45 102.698 1400.5 105.1 1400.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 133.533 1408.67)" x="0" y="0">
+<tspan textLength="158.934" x="80.9668" y="9">How Would You Create Your Own Twitter?</tspan>
+</text>
+<path d="M324.75 1415.5C338.083 1420.83 349 1422.33 357.5 1420" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.5 1443.25C358.5 1439.52 361.522 1436.5 365.25 1436.5C368.978 1436.5 372 1439.52 372 1443.25C372 1446.98 368.978 1450 365.25 1450C361.522 1450 358.5 1446.98 358.5 1443.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.85 1427.5L663.65 1427.5C666.052 1427.5 668 1429.45 668 1431.85L668 1452.15C668 1454.55 666.052 1456.5 663.65 1456.5L437.85 1456.5C435.448 1456.5 433.5 1454.55 433.5 1452.15L433.5 1431.85C433.5 1429.45 435.448 1427.5 437.85 1427.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 465.635 1435.67)" x="0" y="0">
+<tspan textLength="168.73" x="85.8652" y="9">How Would You Create Your Own Instagram?</tspan>
+</text>
+<path d="M433.5 1442C416.333 1447.67 395.833 1448.08 372 1443.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1462C356.5 1458.41 359.41 1455.5 363 1455.5C366.59 1455.5 369.5 1458.41 369.5 1462C369.5 1465.59 366.59 1468.5 363 1468.5C359.41 1468.5 356.5 1465.59 356.5 1462Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M98.7 1442.5L320.3 1442.5C323.034 1442.5 325.25 1444.72 325.25 1447.45L325.25 1470.55C325.25 1473.28 323.034 1475.5 320.3 1475.5L98.7 1475.5C95.9662 1475.5 93.75 1473.28 93.75 1470.55L93.75 1447.45C93.75 1444.72 95.9662 1442.5 98.7 1442.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 121.314 1452.67)" x="0" y="0">
+<tspan textLength="175.371" x="89.1855" y="9">How to design a global file sharing and storag...</tspan>
+</text>
+<path d="M323.75 1457.5C337.083 1462.83 348 1464.33 356.5 1462" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1479.25C356.5 1475.52 359.522 1472.5 363.25 1472.5C366.978 1472.5 370 1475.52 370 1479.25C370 1482.98 366.978 1486 363.25 1486C359.522 1486 356.5 1482.98 356.5 1479.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M435.85 1466.5L750.9 1466.5C753.302 1466.5 755.25 1468.45 755.25 1470.85L755.25 1491.15C755.25 1493.55 753.302 1495.5 750.9 1495.5L435.85 1495.5C433.448 1495.5 431.5 1493.55 431.5 1491.15L431.5 1470.85C431.5 1468.45 433.448 1466.5 435.85 1466.5Z" fill="#ffff66" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 476.689 1474.67)" x="0" y="0">
+<tspan textLength="232.621" x="117.811" y="9">How to Design a Chat Application Like Whatsapp or Telegram?</tspan>
+</text>
+<path d="M431.5 1481C414.5 1468.67 394 1468.08 370 1479.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357 1503.5C357 1499.91 359.91 1497 363.5 1497C367.09 1497 370 1499.91 370 1503.5C370 1507.09 367.09 1510 363.5 1510C359.91 1510 357 1507.09 357 1503.5Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M99.1 1484L321.4 1484C323.802 1484 325.75 1485.95 325.75 1488.35L325.75 1508.65C325.75 1511.05 323.802 1513 321.4 1513L99.1 1513C96.6976 1513 94.75 1511.05 94.75 1508.65L94.75 1488.35C94.75 1485.95 96.6976 1484 99.1 1484Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 117.072 1491.67)" x="0" y="0">
+<tspan textLength="185.855" x="94.4277" y="9">How to Design a Global Video Streaming Service...</tspan>
+</text>
+<path d="M324.25 1499C337.583 1504.33 348.5 1505.83 357 1503.5" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.5 1523.75C357.5 1520.02 360.522 1517 364.25 1517C367.978 1517 371 1520.02 371 1523.75C371 1527.48 367.978 1530.5 364.25 1530.5C360.522 1530.5 357.5 1527.48 357.5 1523.75Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M436.85 1508L612.65 1508C615.052 1508 617 1509.95 617 1512.35L617 1532.65C617 1535.05 615.052 1537 612.65 1537L436.85 1537C434.448 1537 432.5 1535.05 432.5 1532.65L432.5 1512.35C432.5 1509.95 434.448 1508 436.85 1508Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 462.998 1515.67)" x="0" y="0">
+<tspan textLength="122.004" x="62.502" y="9">How to Design an ATM Machine?</tspan>
+</text>
+<path d="M432.5 1522.5C415.5 1512.17 395 1512.58 371 1523.75" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1545C356.5 1541.41 359.41 1538.5 363 1538.5C366.59 1538.5 369.5 1541.41 369.5 1545C369.5 1548.59 366.59 1551.5 363 1551.5C359.41 1551.5 356.5 1548.59 356.5 1545Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M146.1 1524.5L321.9 1524.5C324.302 1524.5 326.25 1526.45 326.25 1528.85L326.25 1549.15C326.25 1551.55 324.302 1553.5 321.9 1553.5L146.1 1553.5C143.698 1553.5 141.75 1551.55 141.75 1549.15L141.75 1528.85C141.75 1526.45 143.698 1524.5 146.1 1524.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 166.947 1532.67)" x="0" y="0">
+<tspan textLength="134.105" x="68.5527" y="9">How to Design an API Rate Limiter?</tspan>
+</text>
+<path d="M323.75 1540.5C337.083 1545.83 348 1547.33 356.5 1545" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1566.25C356.5 1562.52 359.522 1559.5 363.25 1559.5C366.978 1559.5 370 1562.52 370 1566.25C370 1569.98 366.978 1573 363.25 1573C359.522 1573 356.5 1569.98 356.5 1566.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M435.85 1550.5L611.65 1550.5C614.052 1550.5 616 1552.45 616 1554.85L616 1575.15C616 1577.55 614.052 1579.5 611.65 1579.5L435.85 1579.5C433.448 1579.5 431.5 1577.55 431.5 1575.15L431.5 1554.85C431.5 1552.45 433.448 1550.5 435.85 1550.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 464.102 1558.67)" x="0" y="0">
+<tspan textLength="117.797" x="60.3984" y="9">How to Design Twitter Search?</tspan>
+</text>
+<path d="M431.5 1565C414.333 1568.67 393.833 1569.08 370 1566.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.25 1586C357.25 1582.41 360.16 1579.5 363.75 1579.5C367.34 1579.5 370.25 1582.41 370.25 1586C370.25 1589.59 367.34 1592.5 363.75 1592.5C360.16 1592.5 357.25 1589.59 357.25 1586Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M98.1 1566.5L321.65 1566.5C324.052 1566.5 326 1568.45 326 1570.85L326 1591.15C326 1593.55 324.052 1595.5 321.65 1595.5L98.1 1595.5C95.6976 1595.5 93.75 1593.55 93.75 1591.15L93.75 1570.85C93.75 1568.45 95.6976 1566.5 98.1 1566.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 129.168 1574.67)" x="0" y="0">
+<tspan textLength="159.664" x="81.332" y="9">How to Design a Web Crawler Like Google?</tspan>
+</text>
+<path d="M324.5 1581.5C337.833 1586.83 348.75 1588.33 357.25 1586" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.5 1608.25C357.5 1604.52 360.522 1601.5 364.25 1601.5C367.978 1601.5 371 1604.52 371 1608.25C371 1611.98 367.978 1615 364.25 1615C360.522 1615 357.5 1611.98 357.5 1608.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M436.85 1592.5L640.15 1592.5C642.552 1592.5 644.5 1594.45 644.5 1596.85L644.5 1617.15C644.5 1619.55 642.552 1621.5 640.15 1621.5L436.85 1621.5C434.448 1621.5 432.5 1619.55 432.5 1617.15L432.5 1596.85C432.5 1594.45 434.448 1592.5 436.85 1592.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 465.48 1600.67)" x="0" y="0">
+<tspan textLength="145.039" x="74.0195" y="9">How to Design Facebook&#x27;s News Feed?</tspan>
+</text>
+<path d="M432.5 1607C415.333 1596 394.833 1596.42 371 1608.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356.5 1629C356.5 1625.41 359.41 1622.5 363 1622.5C366.59 1622.5 369.5 1625.41 369.5 1629C369.5 1632.59 366.59 1635.5 363 1635.5C359.41 1635.5 356.5 1632.59 356.5 1629Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M105.6 1608.5L320.9 1608.5C323.302 1608.5 325.25 1610.45 325.25 1612.85L325.25 1633.15C325.25 1635.55 323.302 1637.5 320.9 1637.5L105.6 1637.5C103.198 1637.5 101.25 1635.55 101.25 1633.15L101.25 1612.85C101.25 1610.45 103.198 1608.5 105.6 1608.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 133.033 1616.67)" x="0" y="0">
+<tspan textLength="159.934" x="81.4668" y="9">How to Design an Application like WeChat?</tspan>
+</text>
+<path d="M323.75 1624.5C337.083 1629.83 348 1631.33 356.5 1629" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M355.75 1647.25C355.75 1643.52 358.772 1640.5 362.5 1640.5C366.228 1640.5 369.25 1643.52 369.25 1647.25C369.25 1650.98 366.228 1654 362.5 1654C358.772 1654 355.75 1650.98 355.75 1647.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M435.1 1631.5L657.65 1631.5C660.052 1631.5 662 1633.45 662 1635.85L662 1656.15C662 1658.55 660.052 1660.5 657.65 1660.5L435.1 1660.5C432.698 1660.5 430.75 1658.55 430.75 1656.15L430.75 1635.85C430.75 1633.45 432.698 1631.5 435.1 1631.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 467.531 1639.67)" x="0" y="0">
+<tspan textLength="156.938" x="79.9688" y="9">How to Design an Application Like Tinder?</tspan>
+</text>
+<path d="M430.75 1646C414.083 1649 393.583 1649.42 369.25 1647.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M356 1668C356 1664.41 358.91 1661.5 362.5 1661.5C366.09 1661.5 369 1664.41 369 1668C369 1671.59 366.09 1674.5 362.5 1674.5C358.91 1674.5 356 1671.59 356 1668Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M74.35 1648.5L320.4 1648.5C322.802 1648.5 324.75 1650.45 324.75 1652.85L324.75 1673.15C324.75 1675.55 322.802 1677.5 320.4 1677.5L74.35 1677.5C71.9476 1677.5 70 1675.55 70 1673.15L70 1652.85C70 1650.45 71.9476 1648.5 74.35 1648.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 105.99 1656.67)" x="0" y="0">
+<tspan textLength="182.02" x="92.5098" y="9">How to Create An Application like Google Sheet?</tspan>
+</text>
+<path d="M323.25 1663.5C336.583 1668.83 347.5 1670.33 356 1668" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.75 1688.25C357.75 1684.52 360.772 1681.5 364.5 1681.5C368.228 1681.5 371.25 1684.52 371.25 1688.25C371.25 1691.98 368.228 1695 364.5 1695C360.772 1695 357.75 1691.98 357.75 1688.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.1 1672.5L658.9 1672.5C661.302 1672.5 663.25 1674.45 663.25 1676.85L663.25 1697.15C663.25 1699.55 661.302 1701.5 658.9 1701.5L437.1 1701.5C434.698 1701.5 432.75 1699.55 432.75 1697.15L432.75 1676.85C432.75 1674.45 434.698 1672.5 437.1 1672.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 474.621 1680.67)" x="0" y="0">
+<tspan textLength="146.758" x="74.8789" y="9">How to Design Yelp or Nearby Friends?</tspan>
+</text>
+<path d="M432.75 1687C415.75 1676.67 395.25 1677.08 371.25 1688.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358 1709C358 1705.41 360.91 1702.5 364.5 1702.5C368.09 1702.5 371 1705.41 371 1709C371 1712.59 368.09 1715.5 364.5 1715.5C360.91 1715.5 358 1712.59 358 1709Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M45.6 1689.5L322.4 1689.5C324.802 1689.5 326.75 1691.45 326.75 1693.85L326.75 1714.15C326.75 1716.55 324.802 1718.5 322.4 1718.5L45.6 1718.5C43.1976 1718.5 41.25 1716.55 41.25 1714.15L41.25 1693.85C41.25 1691.45 43.1976 1689.5 45.6 1689.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 83.6367 1697.67)" x="0" y="0">
+<tspan textLength="200.727" x="101.863" y="9">How to Design an Application Like Uber, Grab, Snapp?</tspan>
+</text>
+<path d="M325.25 1704.5C338.583 1709.83 349.5 1711.33 358 1709" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.5 1729.25C358.5 1725.52 361.522 1722.5 365.25 1722.5C368.978 1722.5 372 1725.52 372 1729.25C372 1732.98 368.978 1736 365.25 1736C361.522 1736 358.5 1732.98 358.5 1729.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.85 1713.5L668.9 1713.5C671.302 1713.5 673.25 1715.45 673.25 1717.85L673.25 1738.15C673.25 1740.55 671.302 1742.5 668.9 1742.5L437.85 1742.5C435.448 1742.5 433.5 1740.55 433.5 1738.15L433.5 1717.85C433.5 1715.45 435.448 1713.5 437.85 1713.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 471.393 1721.67)" x="0" y="0">
+<tspan textLength="163.215" x="83.1074" y="9">How to Design an Website Like Booking.com</tspan>
+</text>
+<path d="M433.5 1728C416.5 1717.67 396 1718.08 372 1729.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.5 1750C357.5 1746.41 360.41 1743.5 364 1743.5C367.59 1743.5 370.5 1746.41 370.5 1750C370.5 1753.59 367.59 1756.5 364 1756.5C360.41 1756.5 357.5 1753.59 357.5 1750Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M114.35 1732.5L321.9 1732.5C324.302 1732.5 326.25 1734.45 326.25 1736.85L326.25 1757.15C326.25 1759.55 324.302 1761.5 321.9 1761.5L114.35 1761.5C111.948 1761.5 110 1759.55 110 1757.15L110 1736.85C110 1734.45 111.948 1732.5 114.35 1732.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 139.348 1740.67)" x="0" y="0">
+<tspan textLength="157.305" x="80.1523" y="9">How to Design An Application like Airbnb?</tspan>
+</text>
+<path d="M324.75 1745.5C338.083 1750.83 349 1752.33 357.5 1750" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.25 1773.25C358.25 1769.52 361.272 1766.5 365 1766.5C368.728 1766.5 371.75 1769.52 371.75 1773.25C371.75 1776.98 368.728 1780 365 1780C361.272 1780 358.25 1776.98 358.25 1773.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M437.6 1753.5L636.4 1753.5C638.802 1753.5 640.75 1755.45 640.75 1757.85L640.75 1778.15C640.75 1780.55 638.802 1782.5 636.4 1782.5L437.6 1782.5C435.198 1782.5 433.25 1780.55 433.25 1778.15L433.25 1757.85C433.25 1755.45 435.198 1753.5 437.6 1753.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 466.572 1761.67)" x="0" y="0">
+<tspan textLength="140.855" x="71.9277" y="9">How to Create a Deployment System?</tspan>
+</text>
+<path d="M433.25 1768C416.25 1760.33 395.75 1762.08 371.75 1773.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.25 1795C357.25 1791.41 360.16 1788.5 363.75 1788.5C367.34 1788.5 370.25 1791.41 370.25 1795C370.25 1798.59 367.34 1801.5 363.75 1801.5C360.16 1801.5 357.25 1798.59 357.25 1795Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M101.85 1772.5L321.65 1772.5C324.052 1772.5 326 1774.45 326 1776.85L326 1797.15C326 1799.55 324.052 1801.5 321.65 1801.5L101.85 1801.5C99.4476 1801.5 97.5 1799.55 97.5 1797.15L97.5 1776.85C97.5 1774.45 99.4476 1772.5 101.85 1772.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 132.156 1780.67)" x="0" y="0">
+<tspan textLength="157.688" x="80.3438" y="9">How to Create an Application Like Github?</tspan>
+</text>
+<path d="M324.5 1790.5C337.833 1795.83 348.75 1797.33 357.25 1795" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.25 1812.25C357.25 1808.52 360.272 1805.5 364 1805.5C367.728 1805.5 370.75 1808.52 370.75 1812.25C370.75 1815.98 367.728 1819 364 1819C360.272 1819 357.25 1815.98 357.25 1812.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M436.6 1793.5L644.65 1793.5C647.052 1793.5 649 1795.45 649 1797.85L649 1818.15C649 1820.55 647.052 1822.5 644.65 1822.5L436.6 1822.5C434.198 1822.5 432.25 1820.55 432.25 1818.15L432.25 1797.85C432.25 1795.45 434.198 1793.5 436.6 1793.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 464.439 1801.67)" x="0" y="0">
+<tspan textLength="151.121" x="77.0605" y="9">How to Design a Multiplayer Card Game?</tspan>
+</text>
+<path d="M432.25 1808C415.25 1799.67 394.75 1801.08 370.75 1812.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M358.5 1832C358.5 1828.41 361.41 1825.5 365 1825.5C368.59 1825.5 371.5 1828.41 371.5 1832C371.5 1835.59 368.59 1838.5 365 1838.5C361.41 1838.5 358.5 1835.59 358.5 1832Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M112.35 1812.5L322.9 1812.5C325.302 1812.5 327.25 1814.45 327.25 1816.85L327.25 1837.15C327.25 1839.55 325.302 1841.5 322.9 1841.5L112.35 1841.5C109.948 1841.5 108 1839.55 108 1837.15L108 1816.85C108 1814.45 109.948 1812.5 112.35 1812.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 149.543 1820.67)" x="0" y="0">
+<tspan textLength="134.914" x="68.957" y="9">Design a Key-Value Store Like Redis</tspan>
+</text>
+<path d="M325.75 1827.5C339.083 1832.83 350 1834.33 358.5 1832" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357 1849.25C357 1845.52 360.022 1842.5 363.75 1842.5C367.478 1842.5 370.5 1845.52 370.5 1849.25C370.5 1852.98 367.478 1856 363.75 1856C360.022 1856 357 1852.98 357 1849.25Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M436.35 1832.5L663.65 1832.5C666.052 1832.5 668 1834.45 668 1836.85L668 1857.15C668 1859.55 666.052 1861.5 663.65 1861.5L436.35 1861.5C433.948 1861.5 432 1859.55 432 1857.15L432 1836.85C432 1834.45 433.948 1832.5 436.35 1832.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 477.791 1840.67)" x="0" y="0">
+<tspan textLength="144.418" x="73.709" y="9">Design an Application Like Google Docs</tspan>
+</text>
+<path d="M432 1847C415 1837.33 394.5 1838.08 370.5 1849.25" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M357.5 1870C357.5 1866.41 360.41 1863.5 364 1863.5C367.59 1863.5 370.5 1866.41 370.5 1870C370.5 1873.59 367.59 1876.5 364 1876.5C360.41 1876.5 357.5 1873.59 357.5 1870Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M110.6 1850.5L321.9 1850.5C324.302 1850.5 326.25 1852.45 326.25 1854.85L326.25 1875.15C326.25 1877.55 324.302 1879.5 321.9 1879.5L110.6 1879.5C108.198 1879.5 106.25 1877.55 106.25 1875.15L106.25 1854.85C106.25 1852.45 108.198 1850.5 110.6 1850.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 143.189 1858.67)" x="0" y="0">
+<tspan textLength="145.621" x="74.3105" y="9">How to Design a Website like Mint.com</tspan>
+</text>
+<path d="M324.75 1865.5C338.083 1870.83 349 1872.33 357.5 1870" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="3.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M361.25 1330.5C361.417 1321.83 358.333 1314.33 352 1308" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.68 1352.13C363.68 1352.13 362.87 1349.25 361.25 1343.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363 1373.5C364.167 1373.5 364.833 1370.83 365 1365.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364.68 1392.24C364.68 1392.24 364.403 1390.2 363.85 1386.11" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364 1413.5C364 1413.5 364.333 1410.67 365 1405" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M365.88 1436.34C365.88 1436.34 365.253 1433.06 364 1426.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M362.91 1456.44C362.91 1456.44 363.69 1454.29 365.25 1450" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.65 1473.63C363.65 1473.63 363.433 1471.92 363 1468.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.57 1497.73C363.57 1497.73 363.463 1493.82 363.25 1486" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364.25 1517C364.25 1517 364 1514.67 363.5 1510" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363 1538.5C363 1538.5 363.417 1535.83 364.25 1530.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M362.99 1560.5C362.99 1560.5 362.993 1557.5 363 1551.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.75 1579.5C363.75 1579.5 363.583 1577.33 363.25 1573" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364.49 1602.2C364.49 1602.2 364.243 1599.25 363.75 1593.36" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.94 1622.67C363.94 1622.67 364.043 1620.11 364.25 1615" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M362.5 1640.5C362.5 1640.5 362.667 1638.83 363 1635.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.01 1662.38C363.01 1662.38 363.07 1659.47 363.19 1653.64" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364.96 1682.47C364.96 1682.47 364.14 1679.81 362.5 1674.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364.5 1702.5C364.5 1702.5 364.5 1700 364.5 1695" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M365.71 1723.4C365.71 1723.4 365.307 1720.77 364.5 1715.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M365.33 1744.33C365.33 1744.33 365.303 1741.55 365.25 1736" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M365 1766.5C365 1766.5 364.74 1762.96 364.22 1755.88" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.84 1789.83C363.84 1789.83 364.227 1786.55 365 1780" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364 1805.5C364 1805.5 363.73 1804.15 363.19 1801.45" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M365.14 1826.29C365.14 1826.29 364.76 1823.86 364 1819" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M363.75 1843.4C363.75 1843.4 364.167 1841.77 365 1838.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M364 1863.5C364 1863.5 364.1 1861.21 364.3 1856.62" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M370.5 1870C403.167 1877 424.053 1896.56 433.16 1928.67" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M435.34 1936.37L429.31 1929.76L437.01 1927.58L435.34 1936.37Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M528.75 1990.5L670.69 1990.5C673.589 1990.5 675.94 1992.85 675.94 1995.75L675.94 2020.25C675.94 2023.15 673.589 2025.5 670.69 2025.5L528.75 2025.5C525.851 2025.5 523.5 2023.15 523.5 2020.25L523.5 1995.75C523.5 1992.85 525.851 1990.5 528.75 1990.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 551.373 2001.67)" x="0" y="0">
+<tspan textLength="95.2539" x="49.127" y="9">Requirement Clarification</tspan>
+</text>
+<path d="M523.5 2008C463.5 2042.33 410.5 2059.33 364.5 2059" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M528 2030.5L799 2030.5C801.485 2030.5 803.5 2032.51 803.5 2035L803.5 2056C803.5 2058.49 801.485 2060.5 799 2060.5L528 2060.5C525.515 2060.5 523.5 2058.49 523.5 2056L523.5 2035C523.5 2032.51 525.515 2030.5 528 2030.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 578.36 2039.7)" x="0" y="0">
+<tspan textLength="169.281" x="86.1404" y="8">What Are the Features That We Should Support?</tspan>
+</text>
+<path d="M528 2070.5L799 2070.5C801.485 2070.5 803.5 2072.51 803.5 2075L803.5 2096C803.5 2098.49 801.485 2100.5 799 2100.5L528 2100.5C525.515 2100.5 523.5 2098.49 523.5 2096L523.5 2075C523.5 2072.51 525.515 2070.5 528 2070.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 548.225 2079.7)" x="0" y="0">
+<tspan textLength="229.549" x="116.275" y="8">Ask Question to Make Sure Whether You Should Support Specific...</tspan>
+</text>
+<path d="M341.5 2059C341.5 2052.65 346.649 2047.5 353 2047.5C359.351 2047.5 364.5 2052.65 364.5 2059C364.5 2065.35 359.351 2070.5 353 2070.5C346.649 2070.5 341.5 2065.35 341.5 2059Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M439.13 1970.5C439.377 1990.5 413.377 2017.29 361.13 2050.87" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M528 2110.5L799 2110.5C801.485 2110.5 803.5 2112.51 803.5 2115L803.5 2136C803.5 2138.49 801.485 2140.5 799 2140.5L528 2140.5C525.515 2140.5 523.5 2138.49 523.5 2136L523.5 2115C523.5 2112.51 525.515 2110.5 528 2110.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 555.156 2119.7)" x="0" y="0">
+<tspan textLength="215.687" x="109.344" y="8">Make sure you should only focus on frontend or backend or both</tspan>
+</text>
+<path d="M529.5 2150.5L797.5 2150.5C800.814 2150.5 803.5 2153.19 803.5 2156.5L803.5 2184.5C803.5 2187.81 800.814 2190.5 797.5 2190.5L529.5 2190.5C526.186 2190.5 523.5 2187.81 523.5 2184.5L523.5 2156.5C523.5 2153.19 526.186 2150.5 529.5 2150.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 553.344 2164.7)" x="0" y="0">
+<tspan textLength="219.312" x="111.156" y="8">Ask question to understand the scale of the problem. How many...</tspan>
+</text>
+<path d="M528 2200.5L799 2200.5C801.485 2200.5 803.5 2202.51 803.5 2205L803.5 2226C803.5 2228.49 801.485 2230.5 799 2230.5L528 2230.5C525.515 2230.5 523.5 2228.49 523.5 2226L523.5 2205C523.5 2202.51 525.515 2200.5 528 2200.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 554.111 2209.7)" x="0" y="0">
+<tspan textLength="217.779" x="110.389" y="8">Write down all the requirements in a chart to make sure you ha...</tspan>
+</text>
+<path d="M531 2240.5L796 2240.5C800.142 2240.5 803.5 2243.86 803.5 2248L803.5 2283C803.5 2287.14 800.142 2290.5 796 2290.5L531 2290.5C526.858 2290.5 523.5 2287.14 523.5 2283L523.5 2248C523.5 2243.86 526.858 2240.5 531 2240.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 556.206 2259.7)" x="0" y="0">
+<tspan textLength="213.588" x="108.294" y="8">Ask question to make sure you cover all all the extended requi...</tspan>
+</text>
+<path d="M533 2300.5L796 2300.5C800.142 2300.5 803.5 2303.86 803.5 2308L803.5 2343C803.5 2347.14 800.142 2350.5 796 2350.5L533 2350.5C528.858 2350.5 525.5 2347.14 525.5 2343L525.5 2308C525.5 2303.86 528.858 2300.5 533 2300.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 557.744 2319.7)" x="0" y="0">
+<tspan textLength="212.513" x="107.756" y="8">Ask questions to get a good understanding of non-functional r...</tspan>
+</text>
+<path d="M530.6 2359.5L798.4 2359.5C801.217 2359.5 803.5 2361.78 803.5 2364.6L803.5 2388.4C803.5 2391.22 801.217 2393.5 798.4 2393.5L530.6 2393.5C527.783 2393.5 525.5 2391.22 525.5 2388.4L525.5 2364.6C525.5 2361.78 527.783 2359.5 530.6 2359.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 556.202 2370.7)" x="0" y="0">
+<tspan textLength="215.596" x="109.298" y="8">Make it clear that whether the system is read-heavy or write-...</tspan>
+</text>
+<path d="M18 2109L277.28 2109C279.765 2109 281.78 2111.01 281.78 2113.5L281.78 2134.5C281.78 2136.99 279.765 2139 277.28 2139L18 2139C15.5147 2139 13.5 2136.99 13.5 2134.5L13.5 2113.5C13.5 2111.01 15.5147 2109 18 2109Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 72.5145 2117.7)" x="0" y="0">
+<tspan textLength="148.971" x="75.9855" y="8">What Scale is Expected From Your System?</tspan>
+</text>
+<path d="M158.62 2147.5L277.87 2147.5C280.355 2147.5 282.37 2149.51 282.37 2152L282.37 2173C282.37 2175.49 280.355 2177.5 277.87 2177.5L158.62 2177.5C156.135 2177.5 154.12 2175.49 154.12 2173L154.12 2152C154.12 2149.51 156.135 2147.5 158.62 2147.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 175.696 2156.7)" x="0" y="0">
+<tspan textLength="84.607" x="43.8035" y="8">Define Read/Write Ratio</tspan>
+</text>
+<path d="M18 2147.5L143.03 2147.5C145.515 2147.5 147.53 2149.51 147.53 2152L147.53 2173C147.53 2175.49 145.515 2177.5 143.03 2177.5L18 2177.5C15.5147 2177.5 13.5 2175.49 13.5 2173L13.5 2152C13.5 2149.51 15.5147 2147.5 18 2147.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 48.5598 2156.7)" x="0" y="0">
+<tspan textLength="62.8805" x="32.9402" y="8">Traffic Estimation</tspan>
+</text>
+<path d="M146.12 2070.5L278 2070.5C280.485 2070.5 282.5 2072.51 282.5 2075L282.5 2096C282.5 2098.49 280.485 2100.5 278 2100.5L146.12 2100.5C143.635 2100.5 141.62 2098.49 141.62 2096L141.62 2075C141.62 2072.51 143.635 2070.5 146.12 2070.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 167.362 2079.7)" x="0" y="0">
+<tspan textLength="89.2758" x="46.1379" y="8">Queries Per Second (QPS)</tspan>
+</text>
+<path d="M18 2185.5L279 2185.5C281.485 2185.5 283.5 2187.51 283.5 2190L283.5 2211C283.5 2213.49 281.485 2215.5 279 2215.5L18 2215.5C15.5147 2215.5 13.5 2213.49 13.5 2211L13.5 2190C13.5 2187.51 15.5147 2185.5 18 2185.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 112.867 2194.7)" x="0" y="0">
+<tspan textLength="70.2668" x="36.6334" y="8">Storage Estimation...</tspan>
+</text>
+<path d="M18 2071.5L132 2071.5C134.485 2071.5 136.5 2073.51 136.5 2076L136.5 2097C136.5 2099.49 134.485 2101.5 132 2101.5L18 2101.5C15.5147 2101.5 13.5 2099.49 13.5 2097L13.5 2076C13.5 2073.51 15.5147 2071.5 18 2071.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 38.6238 2080.7)" x="0" y="0">
+<tspan textLength="72.7523" x="37.8762" y="8">Bandwidth Estimation</tspan>
+</text>
+<path d="M145.81 2025.5L277.75 2025.5C280.649 2025.5 283 2027.85 283 2030.75L283 2055.25C283 2058.15 280.649 2060.5 277.75 2060.5L145.81 2060.5C142.911 2060.5 140.56 2058.15 140.56 2055.25L140.56 2030.75C140.56 2027.85 142.911 2025.5 145.81 2025.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 174.211 2036.67)" x="0" y="0">
+<tspan textLength="73.5781" x="38.2891" y="9">Capacity Estimation</tspan>
+</text>
+<path d="M341.5 2059C341.5 2059 322 2053.67 283 2043" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M353 2070.5C388.667 2145.83 396.333 2202.5 376 2240.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M5.5 2295.5L299 2295.5C301.485 2295.5 303.5 2297.51 303.5 2300L303.5 2321C303.5 2323.49 301.485 2325.5 299 2325.5L5.5 2325.5C3.01472 2325.5 1 2323.49 1 2321L1 2300C1 2297.51 3.01472 2295.5 5.5 2295.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 37.6473 2304.7)" x="0" y="0">
+<tspan textLength="228.705" x="115.853" y="8">Talk about different approaches like Rest, RPC, and their benefits...</tspan>
+</text>
+<path d="M5 2334.5L299 2334.5C301.485 2334.5 303.5 2336.51 303.5 2339L303.5 2360C303.5 2362.49 301.485 2364.5 299 2364.5L5 2364.5C2.51472 2364.5 0.5 2362.49 0.5 2360L0.5 2339C0.5 2336.51 2.51472 2334.5 5 2334.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 53.1934 2343.7)" x="0" y="0">
+<tspan textLength="197.613" x="100.307" y="8">Write all the endpoint and their methods, schemas and etc</tspan>
+</text>
+<path d="M108.75 2250.5L277.75 2250.5C280.649 2250.5 283 2252.85 283 2255.75L283 2280.25C283 2283.15 280.649 2285.5 277.75 2285.5L108.75 2285.5C105.851 2285.5 103.5 2283.15 103.5 2280.25L103.5 2255.75C103.5 2252.85 105.851 2250.5 108.75 2250.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 132.715 2261.67)" x="0" y="0">
+<tspan textLength="120.57" x="61.7852" y="9">System API (System Interface)</tspan>
+</text>
+<path d="M364.5 2252C364.5 2245.65 369.649 2240.5 376 2240.5C382.351 2240.5 387.5 2245.65 387.5 2252C387.5 2258.35 382.351 2263.5 376 2263.5C369.649 2263.5 364.5 2258.35 364.5 2252Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M367.87 2260.13C351.623 2273.71 323.333 2276.33 283 2268" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M376.5 2260.5C387.833 2287.17 396.833 2310.5 403.5 2330.5C410.167 2350.5 409 2370.5 400 2390.5C391 2410.5 384.083 2417.17 379.25 2410.5" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M98.75 2398.5L276.53 2398.5C279.429 2398.5 281.78 2400.85 281.78 2403.75L281.78 2428.25C281.78 2431.15 279.429 2433.5 276.53 2433.5L98.75 2433.5C95.8505 2433.5 93.5 2431.15 93.5 2428.25L93.5 2403.75C93.5 2400.85 95.8505 2398.5 98.75 2398.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 128.439 2409.67)" x="0" y="0">
+<tspan textLength="117.121" x="60.0605" y="9">Database Schema (Data Model)</tspan>
+</text>
+<path d="M371.5 2422.5C352.833 2401.17 322.927 2399 281.78 2416" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M367.75 2422C367.75 2415.65 372.899 2410.5 379.25 2410.5C385.601 2410.5 390.75 2415.65 390.75 2422C390.75 2428.35 385.601 2433.5 379.25 2433.5C372.899 2433.5 367.75 2428.35 367.75 2422Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<path d="M84 2443.5L278.5 2443.5C280.985 2443.5 283 2445.51 283 2448L283 2469C283 2471.49 280.985 2473.5 278.5 2473.5L84 2473.5C81.5147 2473.5 79.5 2471.49 79.5 2469L79.5 2448C79.5 2445.51 81.5147 2443.5 84 2443.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 103.735 2452.7)" x="0" y="0">
+<tspan textLength="154.529" x="78.7647" y="8">Clarify how data will flow between different...</tspan>
+</text>
+<path d="M114.5 2480.5L277.25 2480.5C279.735 2480.5 281.75 2482.51 281.75 2485L281.75 2506C281.75 2508.49 279.735 2510.5 277.25 2510.5L114.5 2510.5C112.015 2510.5 110 2508.49 110 2506L110 2485C110 2482.51 112.015 2480.5 114.5 2480.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 140.74 2489.7)" x="0" y="0">
+<tspan textLength="108.52" x="55.7602" y="8">Identify various system entities</tspan>
+</text>
+<path d="M44.5 2517.5L277.25 2517.5C279.735 2517.5 281.75 2519.51 281.75 2522L281.75 2543C281.75 2545.49 279.735 2547.5 277.25 2547.5L44.5 2547.5C42.0147 2547.5 40 2545.49 40 2543L40 2522C40 2519.51 42.0147 2517.5 44.5 2517.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 66.8307 2526.7)" x="0" y="0">
+<tspan textLength="186.339" x="94.6693" y="8">Make it clear which database is the best choice and w...</tspan>
+</text>
+<path d="M458.63 2520.5L590.57 2520.5C593.47 2520.5 595.82 2522.85 595.82 2525.75L595.82 2550.25C595.82 2553.15 593.47 2555.5 590.57 2555.5L458.63 2555.5C455.731 2555.5 453.38 2553.15 453.38 2550.25L453.38 2525.75C453.38 2522.85 455.731 2520.5 458.63 2520.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 494.674 2531.67)" x="0" y="0">
+<tspan textLength="58.6523" x="30.8262" y="9">Detailed Design</tspan>
+</text>
+<path d="M457.88 2563.5L728.88 2563.5C731.365 2563.5 733.38 2565.51 733.38 2568L733.38 2589C733.38 2591.49 731.365 2593.5 728.88 2593.5L457.88 2593.5C455.395 2593.5 453.38 2591.49 453.38 2589L453.38 2568C453.38 2565.51 455.395 2563.5 457.88 2563.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 508.493 2572.7)" x="0" y="0">
+<tspan textLength="169.014" x="86.0068" y="8">How should we partition our data to distribute it...</tspan>
+</text>
+<path d="M457.88 2600.5L728.88 2600.5C731.365 2600.5 733.38 2602.51 733.38 2605L733.38 2626C733.38 2628.49 731.365 2630.5 728.88 2630.5L457.88 2630.5C455.395 2630.5 453.38 2628.49 453.38 2626L453.38 2605C453.38 2602.51 455.395 2600.5 457.88 2600.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 511.327 2609.7)" x="0" y="0">
+<tspan textLength="163.346" x="83.1732" y="8">Should we keep all the data of a user in one DB...</tspan>
+</text>
+<path d="M457.88 2637.5L728.88 2637.5C731.365 2637.5 733.38 2639.51 733.38 2642L733.38 2663C733.38 2665.49 731.365 2667.5 728.88 2667.5L457.88 2667.5C455.395 2667.5 453.38 2665.49 453.38 2663L453.38 2642C453.38 2639.51 455.395 2637.5 457.88 2637.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 508.245 2646.7)" x="0" y="0">
+<tspan textLength="169.509" x="86.2547" y="8">What are the cache strategies that you will use?...</tspan>
+</text>
+<path d="M458.76 2674.5L617.76 2674.5C620.245 2674.5 622.26 2676.51 622.26 2679L622.26 2700C622.26 2702.49 620.245 2704.5 617.76 2704.5L458.76 2704.5C456.275 2704.5 454.26 2702.49 454.26 2700L454.26 2679C454.26 2676.51 456.275 2674.5 458.76 2674.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 488.34 2683.7)" x="0" y="0">
+<tspan textLength="99.3199" x="51.16" y="8">How do you handle hot users?</tspan>
+</text>
+<path d="M460.88 2711.5L725.88 2711.5C730.022 2711.5 733.38 2714.86 733.38 2719L733.38 2754C733.38 2758.14 730.022 2761.5 725.88 2761.5L460.88 2761.5C456.738 2761.5 453.38 2758.14 453.38 2754L453.38 2719C453.38 2714.86 456.738 2711.5 460.88 2711.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 512.812 2730.7)" x="0" y="0">
+<tspan textLength="160.376" x="81.6879" y="8">What components need better load balancing?...</tspan>
+</text>
+<path d="M459.03 2429.5L590.97 2429.5C593.869 2429.5 596.22 2431.85 596.22 2434.75L596.22 2459.25C596.22 2462.15 593.869 2464.5 590.97 2464.5L459.03 2464.5C456.131 2464.5 453.78 2462.15 453.78 2459.25L453.78 2434.75C453.78 2431.85 456.131 2429.5 459.03 2429.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 491.521 2440.67)" x="0" y="0">
+<tspan textLength="66.957" x="34.9785" y="9">High-Level Design</tspan>
+</text>
+<path d="M456.75 2473.5L808 2473.5C810.485 2473.5 812.5 2475.51 812.5 2478L812.5 2499C812.5 2501.49 810.485 2503.5 808 2503.5L456.75 2503.5C454.265 2503.5 452.25 2501.49 452.25 2499L452.25 2478C452.25 2475.51 454.265 2473.5 456.75 2473.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 516.96 2482.7)" x="0" y="0">
+<tspan textLength="230.08" x="116.54" y="8">Draw a block diagram and define the core components of the system</tspan>
+</text>
+<path d="M453.78 2447C433.593 2430.67 412.583 2422.33 390.75 2422" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M453.38 2546.75C409.46 2509.25 387.46 2470.38 387.38 2430.13" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M8.75 2590.5L288.25 2590.5C291.149 2590.5 293.5 2592.85 293.5 2595.75L293.5 2620.25C293.5 2623.15 291.149 2625.5 288.25 2625.5L8.75 2625.5C5.85051 2625.5 3.5 2623.15 3.5 2620.25L3.5 2595.75C3.5 2592.85 5.85051 2590.5 8.75 2590.5Z" fill="#ffe599" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="8" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 55.3574 2601.67)" x="0" y="0">
+<tspan textLength="185.285" x="94.1426" y="9">Removing Single Point of Failures and Bottlenecks</tspan>
+</text>
+<path d="M33 2634.5L289 2634.5C291.485 2634.5 293.5 2636.51 293.5 2639L293.5 2660C293.5 2662.49 291.485 2664.5 289 2664.5L33 2664.5C30.5147 2664.5 28.5 2662.49 28.5 2660L28.5 2639C28.5 2636.51 30.5147 2634.5 33 2634.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 77.5426 2643.7)" x="0" y="0">
+<tspan textLength="166.915" x="84.9574" y="8">Is there any single point of failure in our system?</tspan>
+</text>
+<path d="M23 2672.5L287.75 2672.5C290.235 2672.5 292.25 2674.51 292.25 2677L292.25 2698C292.25 2700.49 290.235 2702.5 287.75 2702.5L23 2702.5C20.5147 2702.5 18.5 2700.49 18.5 2698L18.5 2677C18.5 2674.51 20.5147 2672.5 23 2672.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 71.2279 2681.7)" x="0" y="0">
+<tspan textLength="167.544" x="85.2721" y="8">How we can remove those single point of failures?</tspan>
+</text>
+<path d="M23 2709.5L287.75 2709.5C290.235 2709.5 292.25 2711.51 292.25 2714L292.25 2735C292.25 2737.49 290.235 2739.5 287.75 2739.5L23 2739.5C20.5147 2739.5 18.5 2737.49 18.5 2735L18.5 2714C18.5 2711.51 20.5147 2709.5 23 2709.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 50.6228 2718.7)" x="0" y="0">
+<tspan textLength="208.754" x="105.877" y="8">Do we have enough replicas of data if we lose some of our se...</tspan>
+</text>
+<path d="M23.25 2746.5L288 2746.5C290.485 2746.5 292.5 2748.51 292.5 2751L292.5 2772C292.5 2774.49 290.485 2776.5 288 2776.5L23.25 2776.5C20.7647 2776.5 18.75 2774.49 18.75 2772L18.75 2751C18.75 2748.51 20.7647 2746.5 23.25 2746.5Z" fill="#feff00" fill-rule="nonzero" opacity="1" stroke="#36393d" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="7.2" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 61.2752 2755.7)" x="0" y="0">
+<tspan textLength="187.45" x="95.2248" y="8">How are we monitoring the performance of our service?</tspan>
+</text>
+<path d="M379.25 2433.5C368.75 2491.5 340.167 2549.67 293.5 2608" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M379.25 2433.5C382.083 2546.83 386.833 2614.67 393.5 2637C400.167 2659.33 408.5 2688.83 418.5 2725.5C428.5 2762.17 431.503 2790.49 427.51 2810.46" fill="none" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M425.94 2818.31L423.59 2809.68L431.43 2811.25L425.94 2818.31Z" fill="#2c77e4" fill-rule="nonzero" opacity="1" stroke="#2c77e4" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<path d="M413.5 2870.5C413.5 2870.5 415.93 2861.68 420.79 2844.05" fill="none" opacity="1" stroke="#2c77e4" stroke-dasharray="6.0" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2"/>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="middle" transform="matrix(1 0 0 1 332.067 22.6062)" x="0" y="0">
+<tspan textLength="121.866" x="62.4328" y="11">System Design Master Plan</tspan>
+</text>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 309 82.6062)" x="0" y="0">
+<tspan textLength="143.058" x="0" y="11">Let&#x27;s Become a Better Engineer</tspan>
+</text>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 360 1947.61)" x="0" y="0">
+<tspan textLength="159.216" x="0" y="11">Let&#x27;s Learn How to Solve a Problem</tspan>
+</text>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 379 2823.61)" x="0" y="0">
+<tspan textLength="79.125" x="0" y="11">Continue Learning</tspan>
+</text>
+<text fill="#000000" font-family="ComicSansMS" font-size="9.6" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 407 1221.61)" x="0" y="0">
+<tspan textLength="43.7625" x="0" y="11">Exercises</tspan>
+</text>
+</g>
+</g>
+</svg>
